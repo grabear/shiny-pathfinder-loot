@@ -36,5 +36,9 @@ An R shiny app used to keep up with loot tables on Google Sheets during Pathfind
       * Each campaign gets a new file
           * With a master sheet.
           * Each book or module gets thier own sheet.
+          
+* Create a form for players to fill out that helps to auto suggest loot
+    * Preferred Ability
+    * Preferred
 
 
