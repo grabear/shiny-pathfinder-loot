@@ -20,9 +20,21 @@ An R shiny app used to keep up with loot tables on Google Sheets during Pathfind
     d. What type of adventure are you on? (if PF or SF)
         i. Adventure Path, Module, or Scenario?
         ii. Name of adventure
+        iii. Which book?
 3. What do you want to name your campaign?
     a. Names or file paths generated from campaign details
         i. short and long version
     b. custom name
   
-  
+# Ideas
+
+* Create a folder on Google Drive called "_shiny-loot-log_".
+    * Create a folder for each version of shiny-loot-log
+      * Add a master spreadsheet here.
+          * catalog every item ever added.
+          * keep static data here.
+      * Each campaign gets a new file
+          * With a master sheet.
+          * Each book or module gets thier own sheet.
+
+
