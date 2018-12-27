@@ -1,12 +1,13 @@
 library(shinydashboard)
 library(shiny)
 library(googleAuthR)
+
+# Update Google Auth options
 options(googleAuthR.scopes.selected = "https://www.googleapis.com/auth/plus.me")
 options(googleAuthR.webapp.client_id =  "498958135112-hd4udv449lprp85j5e5qr1ugvg8on3v0.apps.googleusercontent.com")
 options(googleAuthR.webapp.client_secret = "xo58T9kE442ckGCWJkmzEP-F")
-#googlesheets::gs_auth(new_user = TRUE)
 
-
+# -----  Start UI -----
 dashboardPage(
   dashboardHeader(title = "Loot Dashboard",
     uiOutput("logoutButton")),
