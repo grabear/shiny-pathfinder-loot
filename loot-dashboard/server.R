@@ -19,6 +19,21 @@ server <- function(input, output, session) {
     }
   })
   
+  update_app_folder <- function(overwrite=FALSE) {
+    if(!"shiny-loot-app" %in% googledrive::drive_find(type="folder")$name) {
+      googledrive::drive_mkdir("shiny-loot-app")
+      googledrive::drive_upload(media = "data/pathfinder-data.xlsx", 
+                                path = "shiny-loot-app/", 
+                                type = "spreadsheet")
+    } else if (overwrite == TRUE) {
+      googledrive::drive_trash("shiny-loot-app")
+      googledrive::drive_mkdir("shiny-loot-app")
+      googledrive::drive_upload(media = "data/pathfinder-data.xlsx", 
+                                path = "shiny-loot-app/", 
+                                type = "spreadsheet")
+    }
+  }
+  
   observeEvent(input$menu,{
     if (is.null(isolate(access_token()))) {
       showModal(modalDialog(
@@ -30,7 +45,8 @@ server <- function(input, output, session) {
     } else {
       return()
     }
-  },
+    update_app_folder()
+    },
   ignoreNULL = TRUE)
   
   output$logoutButton <- renderUI({
