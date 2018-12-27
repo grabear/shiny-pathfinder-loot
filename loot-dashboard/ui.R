@@ -1,33 +1,21 @@
-#
-# This is the user-interface definition of a Shiny web application. You can
-# run the application by clicking 'Run App' above.
-#
-# Find out more about building applications with Shiny here:
-# 
-#    http://shiny.rstudio.com/
-#
-
+library(shinydashboard)
 library(shiny)
+library(googleAuthR)
+options(googleAuthR.scopes.selected = "https://www.googleapis.com/auth/plus.me")
+options(googleAuthR.webapp.client_id =  "498958135112-hd4udv449lprp85j5e5qr1ugvg8on3v0.apps.googleusercontent.com")
+options(googleAuthR.webapp.client_secret = "xo58T9kE442ckGCWJkmzEP-F")
+#googlesheets::gs_auth(new_user = TRUE)
 
-# Define UI for application that draws a histogram
-shinyUI(fluidPage(
-  
-  # Application title
-  titlePanel("Old Faithful Geyser Data"),
-  
-  # Sidebar with a slider input for number of bins 
-  sidebarLayout(
-    sidebarPanel(
-       sliderInput("bins",
-                   "Number of bins:",
-                   min = 1,
-                   max = 50,
-                   value = 30)
-    ),
-    
-    # Show a plot of the generated distribution
-    mainPanel(
-       plotOutput("distPlot")
+dashboardPage(
+  dashboardHeader(title = "Loot Dashboard"),
+  dashboardSidebar(
+    sidebarMenu(
+      id = "menu",
+      menuItem("Loot Overview", tabName = "loot-overivew", icon = icon("table")),
+      menuItem("New Encounter", tabName = "new-encounter", icon = icon("dice")),
+      menuItem("Claim Your Loot", tabName = "loot-claimer", icon = icon("hand-holding-usd"))
     )
-  )
-))
+  ),
+  dashboardBody(uiOutput("loginButton"),uiOutput("logoutButton"))
+)
+
