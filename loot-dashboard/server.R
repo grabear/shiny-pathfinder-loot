@@ -2,8 +2,11 @@ library(shiny)
 library(shinydashboard)
 library(googleAuthR)
 library(googlesheets)
-
 server <- function(input, output, session) {
+  x <- observe({
+    log_status <- reactiveValues(logged_in = FALSE)
+  })
+  x$destroy()
   ## Make a button to link to Google auth screen
   ## If auth_code is returned then don't show login button
   ## Get auth code from return URL
@@ -34,20 +37,21 @@ server <- function(input, output, session) {
     }
   }
   
-  observeEvent(input$menu,{
+  observe({
     if (is.null(isolate(access_token()))) {
-      showModal(modalDialog(
+      showModal(modalDialog(HTML("This app uses your Google Drive and Google Sheets.</br><h>
+                                  You must authenticate your Google account to use this app.</br><h></br><h>"),
       tags$a("Login",
              href = gs_webapp_auth_url(),
              class = "btn btn-default"), 
       title = "Google Login"
-      ))
+      ,footer = NULL))
     } else {
       return()
     }
+    log_status$logged_in <- TRUE
     update_app_folder()
-    },
-  ignoreNULL = TRUE)
+    })
   
   output$logoutButton <- renderUI({
     if (!is.null(access_token())) {
@@ -56,6 +60,7 @@ server <- function(input, output, session) {
              href = getOption("googlesheets.webapp.redirect_uri"),
              class = "btn btn-default")
     } else {
+      log_status$logged_in <- FALSE
       return()
     }
   })
