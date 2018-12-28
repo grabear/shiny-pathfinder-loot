@@ -3,12 +3,8 @@ library(shinydashboard)
 library(googleAuthR)
 library(googlesheets)
 server <- function(input, output, session) {
-  # Initialize reactive values and then destroy the observer so
-  # this code is never called again.
-  x <- observe({
-    log_status <- reactiveValues(logged_in = FALSE)
-  })
-  x$destroy()
+  # Initialize reactive values
+  log_status <- reactiveValues(logged_in = FALSE)
 
   # Display a modal asking for the use to login to Google
   # `footer=NULL` prevents a dismiss button from being displayed
