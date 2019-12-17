@@ -47,6 +47,27 @@ server <- function(input, output, session) {
     } 
   })
 
+  # Update welcome message for current user.
+  output$currentUser <- renderUI({
+    validate(
+      need(log_status(),
+           message = "No user is \ncurrently \nauthorized.")
+    )
+    x <- drive_user()
+    line1 <- sprintf("Welcome </br><h>back </br><h>%s!", x$emailAddress)
+    
+    if(log_status) {
+      HTML(paste(line1, sep = "</br><h>"))
+    }
+  })
+  
+  # Update profile pic for current user
+  output$profile <- renderUI({
+    if(log_status()){
+      x <- drive_user()
+      tags$img(src=x$photoLink)
+    }
+  })
 
 }
 
