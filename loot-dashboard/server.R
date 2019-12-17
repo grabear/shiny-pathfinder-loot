@@ -43,7 +43,7 @@ server <- function(input, output, session) {
       sheets_auth(email = input$gmail, cache = TRUE)
       log_status(ifelse(log_status(), FALSE, TRUE))
       removeModal()
-      #   update_app_folder()
+      update_app_folder()
     } 
   })
 
@@ -71,3 +71,18 @@ server <- function(input, output, session) {
 
 }
 
+# # Function used to update the shiny-pathfinder-loot directory
+update_app_folder <- function(overwrite=FALSE) {
+  if(!"shiny-loot-app" %in% googledrive::drive_find(type="folder")$name) {
+    googledrive::drive_mkdir("shiny-loot-app")
+    googledrive::drive_upload(media = "data/pathfinder-data.xlsx",
+                              path = "shiny-loot-app/",
+                              type = "spreadsheet")
+  } else if (overwrite == TRUE) {
+    googledrive::drive_trash("shiny-loot-app")
+    googledrive::drive_mkdir("shiny-loot-app")
+    googledrive::drive_upload(media = "data/pathfinder-data.xlsx",
+                              path = "shiny-loot-app/",
+                              type = "spreadsheet")
+  }
+}
