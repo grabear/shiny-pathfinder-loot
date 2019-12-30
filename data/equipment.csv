@@ -1,0 +1,2116 @@
+Item,Subtype,Type
+Padded Armor,Armor,Arms and Armor
+Leather Armor,Armor,Arms and Armor
+Studded Leather Armor,Armor,Arms and Armor
+Chain Shirt,Armor,Arms and Armor
+Hide Armor,Armor,Arms and Armor
+Scale Mail,Armor,Arms and Armor
+Chainmail,Armor,Arms and Armor
+Breastplate,Armor,Arms and Armor
+Splint Mail,Armor,Arms and Armor
+Banded Mail,Armor,Arms and Armor
+Half-Plate,Armor,Arms and Armor
+Full Plate,Armor,Arms and Armor
+Adamantine Breastplate,Armor,Arms and Armor
+Banded Mail of Luck,Armor,Arms and Armor
+Breastplate of Command,Armor,Arms and Armor
+Celestial Armor,Armor,Arms and Armor
+Demon Armor,Armor,Arms and Armor
+Dwarven Plate,Armor,Arms and Armor
+Dragonhide Plate,Armor,Arms and Armor
+Elven Chain,Armor,Arms and Armor
+Mithral Full Plate of Speed,Armor,Arms and Armor
+Mithral Shirt,Armor,Arms and Armor
+Plate Armor of the Deep,Armor,Arms and Armor
+Rhino Hide,Armor,Arms and Armor
+Arrow,Ammunition,Arms and Armor
+Bolt,Ammunition,Arms and Armor
+Repeating Bolt,Ammunition,Arms and Armor
+Bullet,Ammunition,Arms and Armor
+Blowgun Dart,Ammunition,Arms and Armor
+Screaming Bolt,Ammunition,Arms and Armor
+Slaying Arrow,Ammunition,Arms and Armor
+Greater Slaying Arrow,Ammunition,Arms and Armor
+Sleep Arrow,Ammunition,Arms and Armor
+Padded Barding,Barding,Arms and Armor
+Leather Barding,Barding,Arms and Armor
+Studded Leather Barding,Barding,Arms and Armor
+Chain Shirt Barding,Barding,Arms and Armor
+Hide Barding,Barding,Arms and Armor
+Scale Mail Barding,Barding,Arms and Armor
+Chainmail Barding,Barding,Arms and Armor
+Breastplate Barding,Barding,Arms and Armor
+Splint Mail Barding,Barding,Arms and Armor
+Banded Mail Barding,Barding,Arms and Armor
+Half-Plate Barding,Barding,Arms and Armor
+Full Plate Barding,Barding,Arms and Armor
+Gauntlet,Melee Weapon,Arms and Armor
+Dagger,Melee Weapon,Arms and Armor
+Punching Dagger,Melee Weapon,Arms and Armor
+Spiked Gauntlet,Melee Weapon,Arms and Armor
+Light Mace,Melee Weapon,Arms and Armor
+Sickle,Melee Weapon,Arms and Armor
+Club,Melee Weapon,Arms and Armor
+Heavy Mace,Melee Weapon,Arms and Armor
+Morningstar,Melee Weapon,Arms and Armor
+Shortspear,Melee Weapon,Arms and Armor
+Longspear,Melee Weapon,Arms and Armor
+Quarterstaff,Melee Weapon,Arms and Armor
+Spear,Melee Weapon,Arms and Armor
+Throwing Axe,Melee Weapon,Arms and Armor
+Light Hammer,Melee Weapon,Arms and Armor
+Handaxe,Melee Weapon,Arms and Armor
+Kukri,Melee Weapon,Arms and Armor
+Light Pick,Melee Weapon,Arms and Armor
+Sap,Melee Weapon,Arms and Armor
+Spiked Armor,Melee Weapon,Arms and Armor
+Starknife,Melee Weapon,Arms and Armor
+Short Sword,Melee Weapon,Arms and Armor
+Battleaxe,Melee Weapon,Arms and Armor
+Light Flail,Melee Weapon,Arms and Armor
+Longsword,Melee Weapon,Arms and Armor
+Heavy Pick,Melee Weapon,Arms and Armor
+Rapier,Melee Weapon,Arms and Armor
+Scimitar,Melee Weapon,Arms and Armor
+Trident,Melee Weapon,Arms and Armor
+Warhammer,Melee Weapon,Arms and Armor
+Falchion,Melee Weapon,Arms and Armor
+Glaive,Melee Weapon,Arms and Armor
+Greataxe,Melee Weapon,Arms and Armor
+Greatclub,Melee Weapon,Arms and Armor
+Heavy Flail,Melee Weapon,Arms and Armor
+Greatsword,Melee Weapon,Arms and Armor
+Guisarme,Melee Weapon,Arms and Armor
+Halberd,Melee Weapon,Arms and Armor
+Lance,Melee Weapon,Arms and Armor
+Ranseur,Melee Weapon,Arms and Armor
+Scythe,Melee Weapon,Arms and Armor
+Kama,Melee Weapon,Arms and Armor
+Nunchaku,Melee Weapon,Arms and Armor
+Sai,Melee Weapon,Arms and Armor
+Siangham,Melee Weapon,Arms and Armor
+Bastard Sword,Melee Weapon,Arms and Armor
+Dwarven Waraxe,Melee Weapon,Arms and Armor
+Whip,Melee Weapon,Arms and Armor
+Orc Double Axe,Melee Weapon,Arms and Armor
+Spiked Chain,Melee Weapon,Arms and Armor
+Elven Curve Blade,Melee Weapon,Arms and Armor
+Dire Flail,Melee Weapon,Arms and Armor
+Gnome Hooked Hammer,Melee Weapon,Arms and Armor
+Two-Bladed Sword,Melee Weapon,Arms and Armor
+Dwarven Urgrosh,Melee Weapon,Arms and Armor
+Dagger (Punching),Melee Weapon,Arms and Armor
+Gauntlet (Spiked),Melee Weapon,Arms and Armor
+Mace (Light),Melee Weapon,Arms and Armor
+Mace (Heavy),Melee Weapon,Arms and Armor
+Axe (Throwing),Melee Weapon,Arms and Armor
+Hammer (Light),Melee Weapon,Arms and Armor
+Pick (Light),Melee Weapon,Arms and Armor
+Sword (Short),Melee Weapon,Arms and Armor
+Flail,Melee Weapon,Arms and Armor
+Pick (Heavy),Melee Weapon,Arms and Armor
+Flail (Heavy),Melee Weapon,Arms and Armor
+Nunchaku (Metal),Melee Weapon,Arms and Armor
+Sword (Bastard),Melee Weapon,Arms and Armor
+Waraxe (Dwarven),Melee Weapon,Arms and Armor
+Axe (Orc Double),Melee Weapon,Arms and Armor
+Chain (Spiked),Melee Weapon,Arms and Armor
+Curve Blade (Elven),Melee Weapon,Arms and Armor
+Flail (Dire),Melee Weapon,Arms and Armor
+Hammer (Gnome Hooked),Melee Weapon,Arms and Armor
+Sword (Two-Bladed),Melee Weapon,Arms and Armor
+Urgrosh (Dwarven),Melee Weapon,Arms and Armor
+Battleaxe (Adamantine),Melee Weapon,Arms and Armor
+Dagger (Adamantine),Melee Weapon,Arms and Armor
+Dagger (Assassin's),Melee Weapon,Arms and Armor
+Dagger of Venom,Melee Weapon,Arms and Armor
+Dwarven Thrower,Melee Weapon,Arms and Armor
+Flame Tongue,Melee Weapon,Arms and Armor
+Frost Brand,Melee Weapon,Arms and Armor
+Holy Avenger,Melee Weapon,Arms and Armor
+Life-Drinker,Melee Weapon,Arms and Armor
+Longsword (Cold Iron/Masterwork),Melee Weapon,Arms and Armor
+Luck Blade (0 wishes),Melee Weapon,Arms and Armor
+Luck Blade (1 wish),Melee Weapon,Arms and Armor
+Luck Blade (2 wishes),Melee Weapon,Arms and Armor
+Luck Blade (3 wishes),Melee Weapon,Arms and Armor
+Mace of Smiting,Melee Weapon,Arms and Armor
+Mace of Terror,Melee Weapon,Arms and Armor
+Nine Lives Stealer,Melee Weapon,Arms and Armor
+Rapier of Puncturing,Melee Weapon,Arms and Armor
+Shatterspike,Melee Weapon,Arms and Armor
+Shifter's Sorrow,Melee Weapon,Arms and Armor
+Dagger (Silver/Masterwork),Melee Weapon,Arms and Armor
+Sun Blade (Bastard),Melee Weapon,Arms and Armor
+Sun Blade (Short),Melee Weapon,Arms and Armor
+Sword of Life Stealing,Melee Weapon,Arms and Armor
+Sword of the Planes,Melee Weapon,Arms and Armor
+Sword of Subtlety,Melee Weapon,Arms and Armor
+Sylvan Scimitar,Melee Weapon,Arms and Armor
+Trident of Fish Command,Melee Weapon,Arms and Armor
+Trident of Warning,Melee Weapon,Arms and Armor
+Mattock of the Titans,Melee Weapon,Arms and Armor
+Maul of the Titans,Melee Weapon,Arms and Armor
+Axe of the Dwarvish Lords,Melee Weapon,Arms and Armor
+Blowgun,Ranged Weapons,Arms and Armor
+Heavy Crossbow,Ranged Weapons,Arms and Armor
+Light Crossbow,Ranged Weapons,Arms and Armor
+Dart,Ranged Weapons,Arms and Armor
+Javelin,Ranged Weapons,Arms and Armor
+Sling,Ranged Weapons,Arms and Armor
+Longbow,Ranged Weapons,Arms and Armor
+Composite Longbow,Ranged Weapons,Arms and Armor
+Shortbow,Ranged Weapons,Arms and Armor
+Composite Shortbow,Ranged Weapons,Arms and Armor
+Bolas,Ranged Weapons,Arms and Armor
+Hand Crossbow,Ranged Weapons,Arms and Armor
+Repeating Heavy Crossbow,Ranged Weapons,Arms and Armor
+Repeating Light Crossbow,Ranged Weapons,Arms and Armor
+Net,Ranged Weapons,Arms and Armor
+Shuriken,Ranged Weapons,Arms and Armor
+Halfling Sling Staff,Ranged Weapons,Arms and Armor
+Crossbow (Heavy),Ranged Weapons,Arms and Armor
+Crossbow (Light),Ranged Weapons,Arms and Armor
+Longbow (Composite),Ranged Weapons,Arms and Armor
+Longbow (Composite +0),Ranged Weapons,Arms and Armor
+Shortbow (Composite),Ranged Weapons,Arms and Armor
+Shortbow (Composite +0),Ranged Weapons,Arms and Armor
+Crossbow (Hand),Ranged Weapons,Arms and Armor
+Crossbow (Repeating Heavy),Ranged Weapons,Arms and Armor
+Crossbow (Repeating Light),Ranged Weapons,Arms and Armor
+Sling Staff (Halfling),Ranged Weapons,Arms and Armor
+Javelin of Lightning,Ranged Weapons,Arms and Armor
+Oathbow,Ranged Weapons,Arms and Armor
+Buckler,Shield,Arms and Armor
+Light Wooden Shield,Shield,Arms and Armor
+Light Steel Shield,Shield,Arms and Armor
+Heavy Wooden Shield,Shield,Arms and Armor
+Heavy Steel Shield,Shield,Arms and Armor
+Tower Shield,Shield,Arms and Armor
+Absorbing Shield,Shield,Arms and Armor
+Caster's Shield,Shield,Arms and Armor
+Darkwood Buckler,Shield,Arms and Armor
+Darkwood Shield,Shield,Arms and Armor
+Lion's Shield,Shield,Arms and Armor
+Mithral Heavy Shield,Shield,Arms and Armor
+Spined Shield,Shield,Arms and Armor
+Winged Shield,Shield,Arms and Armor
+Backpack,Adventuring Gear,General
+Barrel,Adventuring Gear,General
+Basket,Adventuring Gear,General
+Bedroll,Adventuring Gear,General
+Bell,Adventuring Gear,General
+Blanket (Winter),Adventuring Gear,General
+Block and Tackle,Adventuring Gear,General
+Bottle (Glass),Adventuring Gear,General
+Bucket,Adventuring Gear,General
+Caltrops,Adventuring Gear,General
+Candle,Adventuring Gear,General
+Canvas (sq yd),Adventuring Gear,General
+Scroll Case,Adventuring Gear,General
+Map Case,Adventuring Gear,General
+Chain (10 ft),Adventuring Gear,General
+Chalk (1 Piece),Adventuring Gear,General
+Chest,Adventuring Gear,General
+Crowbar,Adventuring Gear,General
+Firewood (Per Day),Adventuring Gear,General
+Fishhook,Adventuring Gear,General
+Fishing Net (25 sq ft),Adventuring Gear,General
+Flask,Adventuring Gear,General
+Flint and Steel,Adventuring Gear,General
+Grappling Hook,Adventuring Gear,General
+Hammer,Adventuring Gear,General
+Hourglass,Adventuring Gear,General
+Ink (1 oz Vial),Adventuring Gear,General
+Ink (Color/1 oz Vial),Adventuring Gear,General
+Inkpen,Adventuring Gear,General
+Jug (Clay),Adventuring Gear,General
+Ladder (10 ft),Adventuring Gear,General
+Lamp (Common),Adventuring Gear,General
+Lantern (Bullseye),Adventuring Gear,General
+Lantern (Hooded),Adventuring Gear,General
+Lock (Simple),Adventuring Gear,General
+Lock (Average),Adventuring Gear,General
+Lock (Good),Adventuring Gear,General
+Lock (Superior),Adventuring Gear,General
+Manacles (Small),Adventuring Gear,General
+Manacles (Medium),Adventuring Gear,General
+Manacles (Large),Adventuring Gear,General
+Manacles (Huge),Adventuring Gear,General
+Manacles (Masterwork/Small),Adventuring Gear,General
+Manacles (Masterwork/Medium),Adventuring Gear,General
+Manacles (Masterwork/Large),Adventuring Gear,General
+Manacles (Masterwork/Huge),Adventuring Gear,General
+Mirror (Small/Steel),Adventuring Gear,General
+Mug (Clay),Adventuring Gear,General
+Tankard,Adventuring Gear,General
+Oil (1 Pint Flask),Adventuring Gear,General
+Paper (Sheet),Adventuring Gear,General
+Parchment (Sheet),Adventuring Gear,General
+Pick (Miner's),Adventuring Gear,General
+Pitcher (Clay),Adventuring Gear,General
+Piton,Adventuring Gear,General
+Pole (10 ft),Adventuring Gear,General
+Pot (Iron),Adventuring Gear,General
+Pouch (Belt),Adventuring Gear,General
+Ram (Portable),Adventuring Gear,General
+Rations (Trail/Per Day),Adventuring Gear,General
+Rope (Hemp/50 ft),Adventuring Gear,General
+Rope (Silk/50 ft),Adventuring Gear,General
+Sack,Adventuring Gear,General
+Sealing Wax,Adventuring Gear,General
+Sewing Needle,Adventuring Gear,General
+Shovel,Adventuring Gear,General
+Spade,Adventuring Gear,General
+Signal Whistle,Adventuring Gear,General
+Signet Ring,Adventuring Gear,General
+Sledge,Adventuring Gear,General
+Soap,Adventuring Gear,General
+Spyglass,Adventuring Gear,General
+Tent (Small),Adventuring Gear,General
+Torch,Adventuring Gear,General
+Vial,Adventuring Gear,General
+Water Clock,Adventuring Gear,General
+Waterskin,Adventuring Gear,General
+Waterskin (Filled),Adventuring Gear,General
+Whetstone,Adventuring Gear,General
+Artisan's Outfit,Clothing,General
+Cleric's Vestments,Clothing,General
+Cold-Weather Outfit,Clothing,General
+Courtier's Outfit,Clothing,General
+Entertainer's Outfit,Clothing,General
+Explorer's Outfit,Clothing,General
+Monk's Outfit,Clothing,General
+Noble's Outfit,Clothing,General
+Peasant's Outfit,Clothing,General
+Royal Outfit,Clothing,General
+Scholar's Outfit,Clothing,General
+Traveler's Outfit,Clothing,General
+Agate,Gem,General
+Azurite,Gem,General
+"Quartz, Blue",Gem,General
+Hematite,Gem,General
+Lapis Lazuli,Gem,General
+Malachite,Gem,General
+Obsidian,Gem,General
+Rhodochrosite,Gem,General
+Tigereye,Gem,General
+Turquoise,Gem,General
+Irregular Freshwater Pearl,Gem,General
+Bloodstone,Gem,General
+Carnelian,Gem,General
+Chalcedony,Gem,General
+Chrysoprase,Gem,General
+Citrine,Gem,General
+Jasper,Gem,General
+Moonstone,Gem,General
+Onyx,Gem,General
+Peridot,Gem,General
+Rock Crystal (Clear Quartz),Gem,General
+Sard,Gem,General
+Sardonyx,Gem,General
+Rose Quartz,Gem,General
+Smoky Quartz,Gem,General
+Star Rose Quartz,Gem,General
+Zircon,Gem,General
+Amber,Gem,General
+Amethyst,Gem,General
+Chrysoberyl,Gem,General
+Coral,Gem,General
+Red Garnet,Gem,General
+Brown-Green Garnet,Gem,General
+Jade,Gem,General
+Jet,Gem,General
+White Pearl,Gem,General
+Golden Pearl,Gem,General
+Pink Pearl,Gem,General
+Silver Pearl,Gem,General
+Red Spinel,Gem,General
+Red-Brown Spinel,Gem,General
+Deep Green Spinel,Gem,General
+Tourmaline,Gem,General
+Alexandrite,Gem,General
+Aquamarine,Gem,General
+Violet Garnet,Gem,General
+Black Pearl,Gem,General
+Deep Blue Spinel,Gem,General
+Golden Yellow Topaz,Gem,General
+Emerald,Gem,General
+White Opal,Gem,General
+Black Opal,Gem,General
+Fire Opal,Gem,General
+Blue Sapphire,Gem,General
+Fiery Yellow Corundum,Gem,General
+Rich Purple Corundum,Gem,General
+Blue Star Sapphire,Gem,General
+Black Star Sapphire,Gem,General
+Clearest Bright Green Emerald,Gem,General
+Diamond,Gem,General
+Jacinth,Gem,General
+Ruby,Gem,General
+"Amber Dust (worth 1,000 gp)",Material Components,General
+Crushed Black Pearl (worth 500 gp),Material Components,General
+Crushed Jade (worth 250 gp),Material Components,General
+"Crushed Pearls (worth 1,500 gp)",Material Components,General
+"Diamond (worth 1,000 gp)",Material Components,General
+"Diamond (worth 10,000 gp)",Material Components,General
+"Diamond (worth 1,500 gp)",Material Components,General
+"Diamond (worth 25,000 gp)",Material Components,General
+Diamond (worth 500 gp),Material Components,General
+"Diamond (worth 5,000 gp)",Material Components,General
+Diamond Dust (worth 100 gp),Material Components,General
+"Diamond Dust (worth 1,000 gp)",Material Components,General
+Diamond Dust (worth 200 gp),Material Components,General
+Diamond Dust (worth 250 gp),Material Components,General
+"Diamond Dust (worth 25,000 gp)",Material Components,General
+Diamond Dust (worth 50 gp),Material Components,General
+Diamond Dust (worth 500 gp),Material Components,General
+"Diamond Dust (worth 5,000 gp)",Material Components,General
+Forked Metal Rod,Material Components,General
+"Forked Metal Rod, attuned to the Abyss",Material Components,General
+"Forked Metal Rod, attuned to the Astral Plane",Material Components,General
+"Forked Metal Rod, attuned to Elysium",Material Components,General
+"Forked Metal Rod, attuned to the Ethereal Plane",Material Components,General
+"Forked Metal Rod, attuned to Heaven",Material Components,General
+"Forked Metal Rod, attuned to Hell",Material Components,General
+"Forked Metal Rod, attuned to the Material Plane",Material Components,General
+"Forked Metal Rod, attuned to the Negative Energy Plane",Material Components,General
+"Forked Metal Rod, attuned to the Plane of Air",Material Components,General
+"Forked Metal Rod, attuned to the Plane of Earth",Material Components,General
+"Forked Metal Rod, attuned to the Plane of Fire",Material Components,General
+"Forked Metal Rod, attuned to the Plane of Water",Material Components,General
+"Forked Metal Rod, attuned to the Positive Energy Plane",Material Components,General
+"Forked Metal Rod, attuned to the Shadow Plane",Material Components,General
+"Powdered Diamond, Emerald, Ruby, and Sapphire Dust (worth 5,000 gp)",Material Components,General
+Gold Dust (worth 25 gp),Material Components,General
+Gold Dust (worth 50 gp),Material Components,General
+"Herbs and Oils (worth 2,000 gp)",Material Components,General
+"Herbs, Oils, and Incense (worth 1,000 gp)",Material Components,General
+"Incense (worth 1,500 gp)",Material Components,General
+Incense (worth 25 gp),Material Components,General
+Incense (worth 250 gp),Material Components,General
+Incense (worth 500 gp),Material Components,General
+Ivory Plaque (worth 50 gp),Material Components,General
+"Ivory Statuette of Self (worth 1,500 gp)",Material Components,General
+"Jacinth (worth 1,000 gp)",Material Components,General
+"Jade Circlet (worth 1,500 gp)",Material Components,General
+Jade Dust (worth 10 gp),Material Components,General
+Jade Dust (worth 25 gp),Material Components,General
+Laboratory Equipment (costing 500 gp),Material Components,General
+"Laboratory Supplies (worth 1,000 gp)",Material Components,General
+Lead-Based Ink (worth 50 gp),Material Components,General
+Miniature Ivory Door (worth 5 gp),Material Components,General
+Miniature Platinum Sword (worth 250 gp),Material Components,General
+"Oils (worth 1,000 gp)",Material Components,General
+Ointment (worth 250 gp),Material Components,General
+Onyx Gem (worth 25 gp),Material Components,General
+Onyx Gem (worth 50 gp),Material Components,General
+Opal (worth 500 gp),Material Components,General
+Pair of Canine Statuettes (worth 50 gp),Material Components,General
+Platinum Ring (worth 50 gp),Material Components,General
+Polished Marble (worth 5 gp),Material Components,General
+Powdered Amber (worth 500 gp),Material Components,General
+Powdered Diamond (worth 200 gp),Material Components,General
+Powdered Diamond (worth 400 gp),Material Components,General
+"Powdered Diamond (worth 5,000 gp)",Material Components,General
+"Powdered Diamond and Opal (worth 1,000 gp)",Material Components,General
+"Powdered Diamond and Opal (worth 5,000 gp)",Material Components,General
+"Powdered Opal (worth 5,000 gp)",Material Components,General
+Powdered Ruby (worth 500 gp),Material Components,General
+Powdered Silver (worth 25 gp),Material Components,General
+Ruby Dust (worth 50 gp),Material Components,General
+Ruby Dust (worth 500 gp),Material Components,General
+"Sapphire (worth 1,000 gp)",Material Components,General
+Set of 4 Pieces of Ivory (worth 50 gp each),Material Components,General
+Set of Marked Bones (worth 25 gp),Material Components,General
+Set of Minature Items (worth 15 gp),Material Components,General
+Set of Prayer Beads (worth 500 gp),Material Components,General
+Silver Dust (worth 25 gp),Material Components,General
+"Silver Mirror (worth 1,000 gp)",Material Components,General
+Silver Spoon (worth 5 gp),Material Components,General
+Small Replica of Self (worth 5 gp),Material Components,General
+Special Dust (worth 50 gp),Material Components,General
+Tiny Reliquary (worth 500 gp),Material Components,General
+Bit and Bridle,Mounts and Related Gear,General
+"Dog, Guard",Mounts and Related Gear,General
+"Dog, Riding",Mounts and Related Gear,General
+Donkey,Mounts and Related Gear,General
+Mule,Mounts and Related Gear,General
+"Feed, Per Day",Mounts and Related Gear,General
+"Horse, Heavy",Mounts and Related Gear,General
+"Horse, Heavy (Combat Trained)",Mounts and Related Gear,General
+"Horse, Light",Mounts and Related Gear,General
+"Horse, Light (Combat Trained)",Mounts and Related Gear,General
+Pony,Mounts and Related Gear,General
+Pony (Combat Trained),Mounts and Related Gear,General
+"Saddle, Military",Mounts and Related Gear,General
+"Saddle, Pack",Mounts and Related Gear,General
+"Saddle, Riding",Mounts and Related Gear,General
+"Saddle, Exotic Military",Mounts and Related Gear,General
+"Saddle, Exotic Pack",Mounts and Related Gear,General
+"Saddle, Exotic Riding",Mounts and Related Gear,General
+Saddlebags,Mounts and Related Gear,General
+Arsenic,Poisons,General
+Belladonna,Poisons,General
+Black Adder Venom,Poisons,General
+Black Lotus Extract,Poisons,General
+Bloodroot,Poisons,General
+Blue Whinnis,Poisons,General
+Burnt Othur Fumes,Poisons,General
+Dark Reaver Powder,Poisons,General
+Deathblade,Poisons,General
+Dragon Bile,Poisons,General
+Drow Poison,Poisons,General
+Giant Wasp Poison,Poisons,General
+Greenblood Oil,Poisons,General
+Hemlock,Poisons,General
+Id Moss,Poisons,General
+Insanity Mist,Poisons,General
+King's Sleep,Poisons,General
+Large Scorpion Venom,Poisons,General
+Lich Dust,Poisons,General
+Malyass Root Paste,Poisons,General
+Medium Spider Venom,Poisons,General
+Nightmare Vapor,Poisons,General
+Nitharit,Poisons,General
+Oil of Taggit,Poisons,General
+Purple Worm Poison,Poisons,General
+Sassone Leaf Residue,Poisons,General
+Shadow Essence,Poisons,General
+Small Centipede Poison,Poisons,General
+Striped Toadstool,Poisons,General
+Tears of Death,Poisons,General
+Terinav Root,Poisons,General
+Ungol Dust,Poisons,General
+Wolfsbane,Poisons,General
+Wyvern Poison,Poisons,General
+Acid,Special Substances and Items,General
+Alchemist's Fire,Special Substances and Items,General
+Antitoxin,Special Substances and Items,General
+Everburning Torch,Special Substances and Items,General
+Holy Water,Special Substances and Items,General
+Smokestick,Special Substances and Items,General
+Sunrod,Special Substances and Items,General
+Tanglefoot Bag,Special Substances and Items,General
+Thunderstone,Special Substances and Items,General
+Tindertwig,Special Substances and Items,General
+Alchemist's Lab,Tools and Skill Kits,General
+Artisan's Tools,Tools and Skill Kits,General
+Climber's Kit,Tools and Skill Kits,General
+Disguise Kit,Tools and Skill Kits,General
+Healer's Kit,Tools and Skill Kits,General
+Holly and Mistletoe,Tools and Skill Kits,General
+Holy Symbol,Tools and Skill Kits,General
+Wooden Holy Symbol,Tools and Skill Kits,General
+Silver Holy Symbol,Tools and Skill Kits,General
+Magnifying Glass,Tools and Skill Kits,General
+Harpsichord,Tools and Skill Kits,General
+Piano,Tools and Skill Kits,General
+Pipe Organ,Tools and Skill Kits,General
+Bells,Tools and Skill Kits,General
+Chimes,Tools and Skill Kits,General
+Drums,Tools and Skill Kits,General
+Gong,Tools and Skill Kits,General
+Fiddle,Tools and Skill Kits,General
+Harp,Tools and Skill Kits,General
+Lute,Tools and Skill Kits,General
+Mandolin,Tools and Skill Kits,General
+Flute,Tools and Skill Kits,General
+Pan Pipes,Tools and Skill Kits,General
+Recorder,Tools and Skill Kits,General
+Trumpet,Tools and Skill Kits,General
+Merchant's Scale,Tools and Skill Kits,General
+Spell Component Pouch,Tools and Skill Kits,General
+Spellbook,Tools and Skill Kits,General
+Thieves' Tools,Tools and Skill Kits,General
+Unholy Symbol,Tools and Skill Kits,General
+Wheat,Trade Goods,General
+Flour,Trade Goods,General
+Chicken,Trade Goods,General
+Iron,Trade Goods,General
+Tobacco,Trade Goods,General
+Copper,Trade Goods,General
+Cinnamon,Trade Goods,General
+Goat,Trade Goods,General
+Ginger,Trade Goods,General
+Pepper,Trade Goods,General
+Sheep,Trade Goods,General
+Pig,Trade Goods,General
+Linen,Trade Goods,General
+Salt,Trade Goods,General
+Silver,Trade Goods,General
+Silk,Trade Goods,General
+Cow,Trade Goods,General
+Saffron,Trade Goods,General
+Cloves,Trade Goods,General
+Ox,Trade Goods,General
+Gold,Trade Goods,General
+Platinum,Trade Goods,General
+Carriage,Transport,General
+Cart,Transport,General
+Galley,Transport,General
+Keelboat,Transport,General
+Longship,Transport,General
+Rowboat,Transport,General
+Oar,Transport,General
+Sailing Ship,Transport,General
+Sled,Transport,General
+Wagon,Transport,General
+Warship,Transport,General
+Lesser Empower Metamagic Rod,Metamagic Rods,Magic
+Empower Metamagic Rod,Metamagic Rods,Magic
+Greater Empower Metamagic Rod,Metamagic Rods,Magic
+Lesser Enlarge Metamagic Rod,Metamagic Rods,Magic
+Enlarge Metamagic Rod,Metamagic Rods,Magic
+Greater Enlarge Metamagic Rod,Metamagic Rods,Magic
+Lesser Extend Metamagic Rod,Metamagic Rods,Magic
+Extend Metamagic Rod,Metamagic Rods,Magic
+Greater Extend Metamagic Rod,Metamagic Rods,Magic
+Lesser Maximize Metamagic Rod,Metamagic Rods,Magic
+Maximize Metamagic Rod,Metamagic Rods,Magic
+Greater Maximize Metamagic Rod,Metamagic Rods,Magic
+Lesser Quicken Metamagic Rod,Metamagic Rods,Magic
+Quicken Metamagic Rod,Metamagic Rods,Magic
+Greater Quicken Metamagic Rod,Metamagic Rods,Magic
+Lesser Silent Metamagic Rod,Metamagic Rods,Magic
+Silent Metamagic Rod,Metamagic Rods,Magic
+Greater Silent Metamagic Rod,Metamagic Rods,Magic
+Book of Infinite Spells,Minor Artifacts,Magic
+Deck of Many Things,Minor Artifacts,Magic
+Philosopher's Stone,Minor Artifacts,Magic
+Sphere of Annihilation,Minor Artifacts,Magic
+Staff of the Magi,Minor Artifacts,Magic
+Talisman of Pure Good,Minor Artifacts,Magic
+Talisman of the Sphere,Minor Artifacts,Magic
+Talisman of Ultimate Evil,Minor Artifacts,Magic
+Codex of the Infinite Planes,Major Artifacts,Magic
+Black Dragon Orb,Major Artifacts,Magic
+Blue Dragon Orb,Major Artifacts,Magic
+Brass Dragon Orb,Major Artifacts,Magic
+Bronze Dragon Orb,Major Artifacts,Magic
+Copper Dragon Orb,Major Artifacts,Magic
+Gold Dragon Orb,Major Artifacts,Magic
+Green Dragon Orb,Major Artifacts,Magic
+Red Dragon Orb,Major Artifacts,Magic
+Silver Dragon Orb,Major Artifacts,Magic
+White Dragon Orb,Major Artifacts,Magic
+The Shadowstaff,Major Artifacts,Magic
+Oil of Bless Weapon,Oils,Magic
+Oil of Darkness,Oils,Magic
+Oil of Daylight,Oils,Magic
+Oil of Flame Arrow,Oils,Magic
+Oil of Greater Magic Weapon +1,Oils,Magic
+Oil of Greater Magic Weapon +2,Oils,Magic
+Oil of Greater Magic Weapon +3,Oils,Magic
+Oil of Greater Magic Weapon +4,Oils,Magic
+Oil of Greater Magic Weapon +5,Oils,Magic
+Oil of Invisibility,Oils,Magic
+Oil of Keen Edge,Oils,Magic
+Oil of Silence,Oils,Magic
+Oil of Levitate,Oils,Magic
+Oil of Magic Stone,Oils,Magic
+Oil of Magic Vestment +1,Oils,Magic
+Oil of Magic Vestment +2,Oils,Magic
+Oil of Magic Vestment +3,Oils,Magic
+Oil of Magic Vestment +4,Oils,Magic
+Oil of Magic Vestment +5,Oils,Magic
+Oil of Magic Weapon,Oils,Magic
+Oil of Shillelagh,Oils,Magic
+Potion of Aid,Potions,Magic
+Potion of Barkskin +2,Potions,Magic
+Potion of Barkskin +3,Potions,Magic
+Potion of Barkskin +4,Potions,Magic
+Potion of Barkskin +5,Potions,Magic
+Potion of Bear's Endurance,Potions,Magic
+Potion of Blur,Potions,Magic
+Potion of Bull's Strength,Potions,Magic
+Potion of Cat's Grace,Potions,Magic
+Potion of Cure Light Wounds,Potions,Magic
+Potion of Cure Moderate Wounds,Potions,Magic
+Potion of Cure Serious Wounds,Potions,Magic
+Potion of Darkvision,Potions,Magic
+Potion of Delay Poison,Potions,Magic
+Potion of Displacement,Potions,Magic
+Potion of Eagle's Splendor,Potions,Magic
+Potion of Endure Elements,Potions,Magic
+Potion of Enlarge Person,Potions,Magic
+Potion of Fly,Potions,Magic
+Potion of Fox's Cunning,Potions,Magic
+Potion of Gaseous Form,Potions,Magic
+Potion of Good Hope,Potions,Magic
+Potion of Greater Magic Fang +1,Potions,Magic
+Potion of Greater Magic Fang +2,Potions,Magic
+Potion of Greater Magic Fang +3,Potions,Magic
+Potion of Greater Magic Fang +4,Potions,Magic
+Potion of Greater Magic Fang +5,Potions,Magic
+Potion of Haste,Potions,Magic
+Potion of Heroism,Potions,Magic
+Potion of Hide from Animals,Potions,Magic
+Potion of Hide from Undead,Potions,Magic
+Potion of Inflict Light Wounds,Potions,Magic
+Potion of Inflict Moderate Wounds,Potions,Magic
+Potion of Inflict Serious Wounds,Potions,Magic
+Potion of Invisibility,Potions,Magic
+Potion of Jump,Potions,Magic
+Potion of Lesser Restoration,Potions,Magic
+Potion of Levitate,Potions,Magic
+Potion of Mage Armor,Potions,Magic
+Potion of Magic Fang,Potions,Magic
+Potion of Misdirection,Potions,Magic
+Potion of Neutralize Poison,Potions,Magic
+Potion of Nondetection,Potions,Magic
+Potion of Owl's Wisdom,Potions,Magic
+Potion of Pass without Trace,Potions,Magic
+Potion of Protection from Arrows,Potions,Magic
+Potion of Protection from Chaos,Potions,Magic
+Potion of Protection from Energy (Acid),Potions,Magic
+Potion of Protection from Energy (Cold),Potions,Magic
+Potion of Protection from Energy (Electricity),Potions,Magic
+Potion of Protection from Energy (Fire),Potions,Magic
+Potion of Protection from Energy (Sonic),Potions,Magic
+Potion of Protection from Evil,Potions,Magic
+Potion of Protection from Good,Potions,Magic
+Potion of Protection from Law,Potions,Magic
+Potion of Rage,Potions,Magic
+Potion of Reduce Person,Potions,Magic
+Potion of Remove Blindness/Deafness,Potions,Magic
+Potion of Remove Curse,Potions,Magic
+Potion of Remove Disease,Potions,Magic
+Potion of Remove Fear,Potions,Magic
+Potion of Remove Paralysis,Potions,Magic
+Potion of Resist Energy 10 (Acid),Potions,Magic
+Potion of Resist Energy 10 (Cold),Potions,Magic
+Potion of Resist Energy 10 (Electricity),Potions,Magic
+Potion of Resist Energy 10 (Fire),Potions,Magic
+Potion of Resist Energy 10 (Sonic),Potions,Magic
+Potion of Resist Energy 20 (Acid),Potions,Magic
+Potion of Resist Energy 20 (Cold),Potions,Magic
+Potion of Resist Energy 20 (Electricity),Potions,Magic
+Potion of Resist Energy 20 (Fire),Potions,Magic
+Potion of Resist Energy 20 (Sonic),Potions,Magic
+Potion of Resist Energy 30 (Acid),Potions,Magic
+Potion of Resist Energy 30 (Cold),Potions,Magic
+Potion of Resist Energy 30 (Electricity),Potions,Magic
+Potion of Resist Energy 30 (Fire),Potions,Magic
+Potion of Resist Energy 30 (Sonic),Potions,Magic
+Potion of Sanctuary,Potions,Magic
+Potion of Shield of Faith +2,Potions,Magic
+Potion of Shield of Faith +3,Potions,Magic
+Potion of Shield of Faith +4,Potions,Magic
+Potion of Shield of Faith +5,Potions,Magic
+Potion of Spider Climb,Potions,Magic
+Potion of Tongues,Potions,Magic
+Potion of Undetectable Alignment,Potions,Magic
+Potion of Water Breathing,Potions,Magic
+Potion of Water Walk,Potions,Magic
+Ring of Animal Friendship,Rings,Magic
+Ring of Blinking,Rings,Magic
+Ring of Chameleon Power,Rings,Magic
+Ring of Climbing,Rings,Magic
+Ring of Improved Climbing,Rings,Magic
+Ring of Counterspells,Rings,Magic
+Ring of Djinni Calling,Rings,Magic
+Ring of Air Elemental Command,Rings,Magic
+Ring of Earth Elemental Command,Rings,Magic
+Ring of Fire Elemental Command,Rings,Magic
+Ring of Water Elemental Command,Rings,Magic
+Ring of Minor Energy Resistance (Acid),Rings,Magic
+Ring of Major Energy Resistance (Acid),Rings,Magic
+Ring of Greater Energy Resistance (Acid),Rings,Magic
+Ring of Minor Energy Resistance (Cold),Rings,Magic
+Ring of Major Energy Resistance (Cold),Rings,Magic
+Ring of Greater Energy Resistance (Cold),Rings,Magic
+Ring of Minor Energy Resistance (Electricity),Rings,Magic
+Ring of Major Energy Resistance (Electricity),Rings,Magic
+Ring of Greater Energy Resistance (Electricity),Rings,Magic
+Ring of Minor Energy Resistance (Fire),Rings,Magic
+Ring of Major Energy Resistance (Fire),Rings,Magic
+Ring of Greater Energy Resistance (Fire),Rings,Magic
+Ring of Minor Energy Resistance (Sonic),Rings,Magic
+Ring of Major Energy Resistance (Sonic),Rings,Magic
+Ring of Greater Energy Resistance (Sonic),Rings,Magic
+Ring of Evasion,Rings,Magic
+Ring of Feather Falling,Rings,Magic
+Ring of Force Shield,Rings,Magic
+Ring of Freedom of Movement,Rings,Magic
+Ring of Friend Shield,Rings,Magic
+Ring of Invisibility,Rings,Magic
+Ring of Jumping,Rings,Magic
+Ring of Improved Jumping,Rings,Magic
+Ring of Mind Shielding,Rings,Magic
+Ring of Protection +1,Rings,Magic
+Ring of Protection +2,Rings,Magic
+Ring of Protection +3,Rings,Magic
+Ring of Protection +4,Rings,Magic
+Ring of Protection +5,Rings,Magic
+Ring of the Ram,Rings,Magic
+Ring of Regeneration,Rings,Magic
+Ring of Shooting Stars,Rings,Magic
+Ring of Minor Spell Storing,Rings,Magic
+Ring of Spell Storing,Rings,Magic
+Ring of Major Spell Storing,Rings,Magic
+Ring of Spell Turning,Rings,Magic
+Ring of Sustenance,Rings,Magic
+Ring of Swimming,Rings,Magic
+Ring of Improved Swimming,Rings,Magic
+Ring of Telekinesis,Rings,Magic
+Ring of Three Wishes,Rings,Magic
+Ring of Water Walking,Rings,Magic
+Ring of Wizardry I,Rings,Magic
+Ring of Wizardry II,Rings,Magic
+Ring of Wizardry III,Rings,Magic
+Ring of Wizardry IV,Rings,Magic
+Ring of X-Ray Vision,Rings,Magic
+Staff of Abjuration,Staffs,Magic
+Staff of Charming,Staffs,Magic
+Staff of Conjuration,Staffs,Magic
+Staff of Defense,Staffs,Magic
+Staff of Divination,Staffs,Magic
+Staff of Earth and Stone,Staffs,Magic
+Staff of Enchantment,Staffs,Magic
+Staff of Evocation,Staffs,Magic
+Staff of Fire,Staffs,Magic
+Staff of Frost,Staffs,Magic
+Staff of Healing,Staffs,Magic
+Staff of Illumination,Staffs,Magic
+Staff of Illusion,Staffs,Magic
+Staff of Life,Staffs,Magic
+Staff of Necromancy,Staffs,Magic
+Staff of Passage,Staffs,Magic
+Staff of Power,Staffs,Magic
+Staff of Size Alteration,Staffs,Magic
+Staff of Swarming Insects,Staffs,Magic
+Staff of Transmutation,Staffs,Magic
+Staff of the Woodlands,Staffs,Magic
+Immovable Rod,Rods,Magic
+Rod of Absorption,Rods,Magic
+Rod of Alertness,Rods,Magic
+Rod of Cancellation,Rods,Magic
+Rod of Enemy Detection,Rods,Magic
+Rod of Flailing,Rods,Magic
+Rod of Flame Extinguishing,Rods,Magic
+Rod of Lordly Might,Rods,Magic
+Rod of Metal and Mineral Detection,Rods,Magic
+Rod of Negation,Rods,Magic
+Rod of the Python,Rods,Magic
+Rod of Rulership,Rods,Magic
+Rod of Security,Rods,Magic
+Rod of Splendor,Rods,Magic
+Rod of Thunder and Lightning,Rods,Magic
+Rod of the Viper,Rods,Magic
+Rod of Withering,Rods,Magic
+Rod of Wonder,Rods,Magic
+Scroll of Acid Splash,Scrolls,Magic
+Scroll of Arcane Mark,Scrolls,Magic
+Scroll of Bleed (Arcane),Scrolls,Magic
+Scroll of Dancing Lights,Scrolls,Magic
+Scroll of Daze,Scrolls,Magic
+Scroll of Detect Magic (Arcane),Scrolls,Magic
+Scroll of Detect Poison (Arcane),Scrolls,Magic
+Scroll of Disrupt Undead,Scrolls,Magic
+Scroll of Flare,Scrolls,Magic
+Scroll of Ghost Sound,Scrolls,Magic
+Scroll of Light (Arcane),Scrolls,Magic
+Scroll of Mage Hand,Scrolls,Magic
+Scroll of Mending (Arcane),Scrolls,Magic
+Scroll of Message,Scrolls,Magic
+Scroll of Open/Close,Scrolls,Magic
+Scroll of Prestidigitation,Scrolls,Magic
+Scroll of Ray of Frost,Scrolls,Magic
+Scroll of Read Magic (Arcane),Scrolls,Magic
+Scroll of Resistance (Arcane),Scrolls,Magic
+Scroll of Touch of Fatigue,Scrolls,Magic
+Scroll of Alarm,Scrolls,Magic
+Scroll of Animate Rope (Arcane),Scrolls,Magic
+Scroll of Burning Hands,Scrolls,Magic
+Scroll of Cause Fear (Arcane),Scrolls,Magic
+Scroll of Charm Person,Scrolls,Magic
+Scroll of Chill Touch,Scrolls,Magic
+Scroll of Color Spray,Scrolls,Magic
+Scroll of Comprehend Languages (Arcane),Scrolls,Magic
+Scroll of Detect Secret Doors,Scrolls,Magic
+Scroll of Detect Undead (Arcane),Scrolls,Magic
+Scroll of Disguise Self,Scrolls,Magic
+Scroll of Endure Elements (Arcane),Scrolls,Magic
+Scroll of Enlarge Person,Scrolls,Magic
+Scroll of Erase,Scrolls,Magic
+Scroll of Expeditious Retreat,Scrolls,Magic
+Scroll of Feather Fall,Scrolls,Magic
+Scroll of Floating Disk,Scrolls,Magic
+Scroll of Grease,Scrolls,Magic
+Scroll of Hold Portal,Scrolls,Magic
+Scroll of Hypnotism,Scrolls,Magic
+Scroll of Identify,Scrolls,Magic
+Scroll of Jump,Scrolls,Magic
+Scroll of Mage Armor,Scrolls,Magic
+Scroll of Magic Aura,Scrolls,Magic
+Scroll of Magic Missile,Scrolls,Magic
+Scroll of Magic Weapon (Arcane),Scrolls,Magic
+Scroll of Mount,Scrolls,Magic
+Scroll of Obscuring Mist (Arcane),Scrolls,Magic
+Scroll of Protection from Chaos (Arcane),Scrolls,Magic
+Scroll of Protection from Evil (Arcane),Scrolls,Magic
+Scroll of Protection from Good (Arcane),Scrolls,Magic
+Scroll of Protection from Law (Arcane),Scrolls,Magic
+Scroll of Ray of Enfeeblement,Scrolls,Magic
+Scroll of Reduce Person,Scrolls,Magic
+Scroll of Shield,Scrolls,Magic
+Scroll of Shocking Grasp,Scrolls,Magic
+Scroll of Silent Image,Scrolls,Magic
+Scroll of Sleep,Scrolls,Magic
+Scroll of Summon Monster I (Arcane),Scrolls,Magic
+Scroll of True Strike,Scrolls,Magic
+Scroll of Unseen Servant,Scrolls,Magic
+Scroll of Ventriloquism,Scrolls,Magic
+Scroll of Acid Arrow,Scrolls,Magic
+Scroll of Alter Self,Scrolls,Magic
+Scroll of Arcane Lock,Scrolls,Magic
+Scroll of Bear's Endurance (Arcane),Scrolls,Magic
+Scroll of Blindness/Deafness (Arcane),Scrolls,Magic
+Scroll of Blur,Scrolls,Magic
+Scroll of Bull's Strength (Arcane),Scrolls,Magic
+Scroll of Cat's Grace (Arcane),Scrolls,Magic
+Scroll of Command Undead,Scrolls,Magic
+Scroll of Continual Flame (Arcane),Scrolls,Magic
+Scroll of Darkness (Arcane),Scrolls,Magic
+Scroll of Darkvision,Scrolls,Magic
+Scroll of Daze Monster,Scrolls,Magic
+Scroll of Detect Thoughts,Scrolls,Magic
+Scroll of Eagle's Splendor (Arcane),Scrolls,Magic
+Scroll of False Life,Scrolls,Magic
+Scroll of Flaming Sphere,Scrolls,Magic
+Scroll of Fog Cloud,Scrolls,Magic
+Scroll of Fox's Cunning (Arcane),Scrolls,Magic
+Scroll of Ghoul Touch,Scrolls,Magic
+Scroll of Glitterdust,Scrolls,Magic
+Scroll of Gust of Wind (Arcane),Scrolls,Magic
+Scroll of Hideous Laughter,Scrolls,Magic
+Scroll of Hypnotic Pattern,Scrolls,Magic
+Scroll of Invisibility,Scrolls,Magic
+Scroll of Knock,Scrolls,Magic
+Scroll of Levitate,Scrolls,Magic
+Scroll of Locate Object (Arcane),Scrolls,Magic
+Scroll of Magic Mouth (Arcane),Scrolls,Magic
+Scroll of Make Whole (Arcane),Scrolls,Magic
+Scroll of Minor Image,Scrolls,Magic
+Scroll of Mirror Image,Scrolls,Magic
+Scroll of Misdirection,Scrolls,Magic
+Scroll of Obscure Object (Arcane),Scrolls,Magic
+Scroll of Owl's Wisdom (Arcane),Scrolls,Magic
+Scroll of Phantom Trap,Scrolls,Magic
+Scroll of Protection from Arrows,Scrolls,Magic
+Scroll of Pyrotechnics,Scrolls,Magic
+Scroll of Resist Energy (Arcane),Scrolls,Magic
+Scroll of Rope Trick,Scrolls,Magic
+Scroll of Scare,Scrolls,Magic
+Scroll of Scorching Ray,Scrolls,Magic
+Scroll of See Invisibility,Scrolls,Magic
+Scroll of Shatter (Arcane),Scrolls,Magic
+Scroll of Spectral Hand,Scrolls,Magic
+Scroll of Spider Climb,Scrolls,Magic
+Scroll of Summon Monster II (Arcane),Scrolls,Magic
+Scroll of Summon Swarm,Scrolls,Magic
+Scroll of Touch of Idiocy,Scrolls,Magic
+Scroll of Web,Scrolls,Magic
+Scroll of Whispering Wind,Scrolls,Magic
+Scroll of Arcane Sight,Scrolls,Magic
+Scroll of Beast Shape I,Scrolls,Magic
+Scroll of Blink,Scrolls,Magic
+Scroll of Clairaudience/Clairvoyance,Scrolls,Magic
+Scroll of Daylight (Arcane),Scrolls,Magic
+Scroll of Deep Slumber,Scrolls,Magic
+Scroll of Dispel Magic (Arcane),Scrolls,Magic
+Scroll of Displacement,Scrolls,Magic
+Scroll of Explosive Runes,Scrolls,Magic
+Scroll of Fireball,Scrolls,Magic
+Scroll of Flame Arrow,Scrolls,Magic
+Scroll of Fly,Scrolls,Magic
+Scroll of Gaseous Form,Scrolls,Magic
+Scroll of Gentle Repose (Arcane),Scrolls,Magic
+Scroll of Halt Undead,Scrolls,Magic
+Scroll of Haste,Scrolls,Magic
+Scroll of Heroism,Scrolls,Magic
+Scroll of Hold Person (Arcane),Scrolls,Magic
+Scroll of Illusory Script,Scrolls,Magic
+Scroll of Invisibility Sphere,Scrolls,Magic
+Scroll of Keen Edge,Scrolls,Magic
+Scroll of Lightning Bolt,Scrolls,Magic
+Scroll of Magic Circle Against Chaos (Arcane),Scrolls,Magic
+Scroll of Magic Circle Against Evil (Arcane),Scrolls,Magic
+Scroll of Magic Circle Against Good (Arcane),Scrolls,Magic
+Scroll of Magic Circle Against Law (Arcane),Scrolls,Magic
+"Scroll of Magic Weapon, Greater (Arcane)",Scrolls,Magic
+Scroll of Major Image,Scrolls,Magic
+Scroll of Nondetection,Scrolls,Magic
+Scroll of Phantom Steed,Scrolls,Magic
+Scroll of Protection from Energy (Arcane),Scrolls,Magic
+Scroll of Rage,Scrolls,Magic
+Scroll of Ray of Exhaustion,Scrolls,Magic
+Scroll of Secret Page (Arcane),Scrolls,Magic
+Scroll of Sepia Snake Sigil,Scrolls,Magic
+Scroll of Shrink Item,Scrolls,Magic
+Scroll of Sleet Storm,Scrolls,Magic
+Scroll of Slow,Scrolls,Magic
+Scroll of Stinking Cloud,Scrolls,Magic
+Scroll of Suggestion,Scrolls,Magic
+Scroll of Summon Monster III (Arcane),Scrolls,Magic
+Scroll of Tiny Hut,Scrolls,Magic
+Scroll of Tongues (Arcane),Scrolls,Magic
+Scroll of Vampiric Touch,Scrolls,Magic
+Scroll of Water Breathing (Arcane),Scrolls,Magic
+Scroll of Wind Wall (Arcane),Scrolls,Magic
+Scroll of Animate Dead (Arcane),Scrolls,Magic
+Scroll of Arcane Eye,Scrolls,Magic
+Scroll of Beast Shape II,Scrolls,Magic
+Scroll of Bestow Curse (Arcane),Scrolls,Magic
+Scroll of Black Tentacles,Scrolls,Magic
+Scroll of Charm Monster,Scrolls,Magic
+Scroll of Confusion,Scrolls,Magic
+Scroll of Contagion (Arcane),Scrolls,Magic
+Scroll of Crushing Despair,Scrolls,Magic
+Scroll of Detect Scrying,Scrolls,Magic
+Scroll of Dimension Door,Scrolls,Magic
+Scroll of Dimensional Anchor (Arcane),Scrolls,Magic
+Scroll of Elemental Body I,Scrolls,Magic
+Scroll of Enervation,Scrolls,Magic
+"Scroll of Enlarge Person, Mass",Scrolls,Magic
+Scroll of Fear,Scrolls,Magic
+Scroll of Fire Shield,Scrolls,Magic
+Scroll of Fire Trap,Scrolls,Magic
+"Scroll of Geas, Lesser",Scrolls,Magic
+"Scroll of Globe of Invulnerability, Lesser",Scrolls,Magic
+Scroll of Hallucinatory Terrain,Scrolls,Magic
+Scroll of Ice Storm,Scrolls,Magic
+Scroll of Illusory Wall,Scrolls,Magic
+"Scroll of Invisibility, Greater",Scrolls,Magic
+Scroll of Locate Creature,Scrolls,Magic
+Scroll of Minor Creation (Arcane),Scrolls,Magic
+Scroll of Mnemonic Enhancer,Scrolls,Magic
+Scroll of Phantasmal Killer,Scrolls,Magic
+Scroll of Rainbow Pattern,Scrolls,Magic
+"Scroll of Reduce Person, Mass",Scrolls,Magic
+Scroll of Remove Curse (Arcane),Scrolls,Magic
+Scroll of Resilient Sphere,Scrolls,Magic
+Scroll of Scrying (Arcane),Scrolls,Magic
+Scroll of Secure Shelter,Scrolls,Magic
+Scroll of Shadow Conjuration (Arcane),Scrolls,Magic
+Scroll of Shout,Scrolls,Magic
+Scroll of Solid Fog,Scrolls,Magic
+Scroll of Stone Shape (Arcane),Scrolls,Magic
+Scroll of Stoneskin,Scrolls,Magic
+Scroll of Summon Monster IV (Arcane),Scrolls,Magic
+Scroll of Wall of Fire,Scrolls,Magic
+Scroll of Wall of Ice,Scrolls,Magic
+Scroll of Animal Growth,Scrolls,Magic
+Scroll of Baleful Polymorph,Scrolls,Magic
+Scroll of Beast Shape III,Scrolls,Magic
+Scroll of Blight (Arcane),Scrolls,Magic
+Scroll of Break Enchantment (Arcane),Scrolls,Magic
+Scroll of Cloudkill,Scrolls,Magic
+Scroll of Cone of Cold,Scrolls,Magic
+Scroll of Contact Other Plane,Scrolls,Magic
+Scroll of Dismissal (Arcane),Scrolls,Magic
+Scroll of Dominate Person,Scrolls,Magic
+Scroll of Dream,Scrolls,Magic
+Scroll of Elemental Body II,Scrolls,Magic
+Scroll of Fabricate (Arcane),Scrolls,Magic
+Scroll of False Vision,Scrolls,Magic
+Scroll of Feeblemind,Scrolls,Magic
+Scroll of Hold Monster,Scrolls,Magic
+Scroll of Interposing Hand,Scrolls,Magic
+Scroll of Mage's Faithful Hound,Scrolls,Magic
+Scroll of Mage's Private Sanctum,Scrolls,Magic
+Scroll of Magic Jar,Scrolls,Magic
+Scroll of Major Creation (Arcane),Scrolls,Magic
+Scroll of Mind Fog,Scrolls,Magic
+Scroll of Mirage Arcana,Scrolls,Magic
+Scroll of Nightmare (Arcane),Scrolls,Magic
+Scroll of Overland Flight,Scrolls,Magic
+Scroll of Passwall,Scrolls,Magic
+Scroll of Permanency,Scrolls,Magic
+Scroll of Persistent Image,Scrolls,Magic
+"Scroll of Planar Binding, Lesser",Scrolls,Magic
+Scroll of Plant Shape I,Scrolls,Magic
+Scroll of Polymorph,Scrolls,Magic
+Scroll of Prying Eyes,Scrolls,Magic
+Scroll of Secret Chest,Scrolls,Magic
+Scroll of Seeming,Scrolls,Magic
+Scroll of Sending (Arcane),Scrolls,Magic
+Scroll of Shadow Evocation,Scrolls,Magic
+Scroll of Summon Monster V (Arcane),Scrolls,Magic
+Scroll of Symbol of Pain (Arcane),Scrolls,Magic
+Scroll of Symbol of Sleep (Arcane),Scrolls,Magic
+Scroll of Telekinesis,Scrolls,Magic
+Scroll of Telepathic Bond,Scrolls,Magic
+Scroll of Teleport,Scrolls,Magic
+Scroll of Transmute Mud to Rock (Arcane),Scrolls,Magic
+Scroll of Transmute Rock to Mud (Arcane),Scrolls,Magic
+Scroll of Wall of Force,Scrolls,Magic
+Scroll of Wall of Stone (Arcane),Scrolls,Magic
+Scroll of Waves of Fatigue,Scrolls,Magic
+Scroll of Acid Fog,Scrolls,Magic
+Scroll of Analyze Dweomer,Scrolls,Magic
+Scroll of Antimagic Field (Arcane),Scrolls,Magic
+"Scroll of Bear's Endurance, Mass (Arcane)",Scrolls,Magic
+Scroll of Beast Shape IV,Scrolls,Magic
+"Scroll of Bull's Strength, Mass (Arcane)",Scrolls,Magic
+"Scroll of Cat's Grace, Mass (Arcane)",Scrolls,Magic
+Scroll of Chain Lightning,Scrolls,Magic
+Scroll of Circle of Death,Scrolls,Magic
+Scroll of Contingency,Scrolls,Magic
+Scroll of Control Water (Arcane),Scrolls,Magic
+Scroll of Create Undead (Arcane),Scrolls,Magic
+Scroll of Disintegrate,Scrolls,Magic
+"Scroll of Dispel Magic, Greater (Arcane)",Scrolls,Magic
+"Scroll of Eagle's Splendor, Mass (Arcane)",Scrolls,Magic
+Scroll of Elemental Body III,Scrolls,Magic
+Scroll of Eyebite,Scrolls,Magic
+Scroll of Flesh to Stone,Scrolls,Magic
+Scroll of Forceful Hand,Scrolls,Magic
+Scroll of Form of the Dragon I,Scrolls,Magic
+"Scroll of Fox's Cunning, Mass (Arcane)",Scrolls,Magic
+Scroll of Freezing Sphere,Scrolls,Magic
+Scroll of Geas/Quest (Arcane),Scrolls,Magic
+Scroll of Globe of Invulnerability,Scrolls,Magic
+Scroll of Guards and Wards,Scrolls,Magic
+"Scroll of Heroism, Greater",Scrolls,Magic
+Scroll of Legend Lore,Scrolls,Magic
+Scroll of Mage's Lucubration,Scrolls,Magic
+Scroll of Mislead,Scrolls,Magic
+Scroll of Move Earth,Scrolls,Magic
+"Scroll of Owl's Wisdom, Mass (Arcane)",Scrolls,Magic
+Scroll of Permanent Image,Scrolls,Magic
+Scroll of Planar Binding (Arcane),Scrolls,Magic
+Scroll of Plant Shape II,Scrolls,Magic
+Scroll of Programmed Image,Scrolls,Magic
+Scroll of Repulsion (Arcane),Scrolls,Magic
+Scroll of Shadow Walk,Scrolls,Magic
+Scroll of Stone to Flesh,Scrolls,Magic
+"Scroll of Suggestion, Mass",Scrolls,Magic
+Scroll of Summon Monster VI (Arcane),Scrolls,Magic
+Scroll of Symbol of Fear (Arcane),Scrolls,Magic
+Scroll of Symbol of Persuasion (Arcane),Scrolls,Magic
+Scroll of Transformation,Scrolls,Magic
+Scroll of True Seeing (Arcane),Scrolls,Magic
+Scroll of Undeath to Death (Arcane),Scrolls,Magic
+Scroll of Veil,Scrolls,Magic
+Scroll of Wall of Iron (Arcane),Scrolls,Magic
+"Scroll of Arcane Sight, Greater",Scrolls,Magic
+Scroll of Banishment (Arcane),Scrolls,Magic
+Scroll of Control Undead,Scrolls,Magic
+Scroll of Control Weather (Arcane),Scrolls,Magic
+Scroll of Delayed Blast Fireball,Scrolls,Magic
+Scroll of Elemental Body IV,Scrolls,Magic
+Scroll of Ethereal Jaunt (Arcane),Scrolls,Magic
+Scroll of Finger of Death,Scrolls,Magic
+Scroll of Forcecage,Scrolls,Magic
+Scroll of Form of the Dragon II,Scrolls,Magic
+Scroll of Giant Form I,Scrolls,Magic
+Scroll of Grasping Hand (Arcane),Scrolls,Magic
+"Scroll of Hold Person, Mass",Scrolls,Magic
+Scroll of Insanity,Scrolls,Magic
+Scroll of Instant Summons (Arcane),Scrolls,Magic
+"Scroll of Invisibility, Mass",Scrolls,Magic
+Scroll of Limited Wish,Scrolls,Magic
+Scroll of Mage's Magnificent Mansion,Scrolls,Magic
+Scroll of Mage's Sword,Scrolls,Magic
+Scroll of Phase Door,Scrolls,Magic
+Scroll of Plane Shift (Arcane),Scrolls,Magic
+Scroll of Plant Shape III,Scrolls,Magic
+"Scroll of Polymorph, Greater",Scrolls,Magic
+Scroll of Power Word Blind,Scrolls,Magic
+Scroll of Prismatic Spray,Scrolls,Magic
+Scroll of Project Image,Scrolls,Magic
+Scroll of Reverse Gravity,Scrolls,Magic
+"Scroll of Scrying, Greater (Arcane)",Scrolls,Magic
+Scroll of Sequester,Scrolls,Magic
+"Scroll of Shadow Conjuration, Greater",Scrolls,Magic
+Scroll of Simulacrum,Scrolls,Magic
+Scroll of Spell Turning,Scrolls,Magic
+Scroll of Statue,Scrolls,Magic
+Scroll of Summon Monster VII (Arcane),Scrolls,Magic
+Scroll of Symbol of Stunning (Arcane),Scrolls,Magic
+Scroll of Symbol of Weakness (Arcane),Scrolls,Magic
+Scroll of Teleport Object,Scrolls,Magic
+"Scroll of Teleport, Greater",Scrolls,Magic
+Scroll of Vision,Scrolls,Magic
+Scroll of Waves of Exhaustion,Scrolls,Magic
+Scroll of Antipathy (Arcane),Scrolls,Magic
+Scroll of Binding,Scrolls,Magic
+"Scroll of Charm Monster, Mass",Scrolls,Magic
+Scroll of Clenched Fist (Arcane),Scrolls,Magic
+Scroll of Clone,Scrolls,Magic
+"Scroll of Create Undead, Greater (Arcane)",Scrolls,Magic
+Scroll of Demand,Scrolls,Magic
+Scroll of Dimensional Lock (Arcane),Scrolls,Magic
+Scroll of Discern Location (Arcane),Scrolls,Magic
+Scroll of Form of the Dragon III,Scrolls,Magic
+Scroll of Giant Form II,Scrolls,Magic
+Scroll of Horrid Wilting,Scrolls,Magic
+Scroll of Incendiary Cloud,Scrolls,Magic
+Scroll of Iron Body,Scrolls,Magic
+Scroll of Irresistible Dance,Scrolls,Magic
+Scroll of Maze,Scrolls,Magic
+Scroll of Mind Blank,Scrolls,Magic
+Scroll of Moment of Prescience,Scrolls,Magic
+"Scroll of Planar Binding, Greater",Scrolls,Magic
+Scroll of Polar Ray,Scrolls,Magic
+Scroll of Polymorph Any Object,Scrolls,Magic
+Scroll of Power Word Stun,Scrolls,Magic
+Scroll of Prismatic Wall,Scrolls,Magic
+Scroll of Protection from Spells,Scrolls,Magic
+"Scroll of Prying Eyes, Greater",Scrolls,Magic
+Scroll of Scintillating Pattern,Scrolls,Magic
+Scroll of Screen,Scrolls,Magic
+"Scroll of Shadow Evocation, Greater (Arcane)",Scrolls,Magic
+"Scroll of Shout, Greater",Scrolls,Magic
+Scroll of Summon Monster VIII (Arcane),Scrolls,Magic
+Scroll of Sunburst,Scrolls,Magic
+Scroll of Symbol of Death (Arcane),Scrolls,Magic
+Scroll of Symbol of Insanity (Arcane),Scrolls,Magic
+Scroll of Sympathy (Arcane),Scrolls,Magic
+Scroll of Telekinetic Sphere,Scrolls,Magic
+Scroll of Temporal Stasis,Scrolls,Magic
+Scroll of Trap the Soul,Scrolls,Magic
+Scroll of Astral Projection (Arcane),Scrolls,Magic
+Scroll of Crushing Hand (Arcane),Scrolls,Magic
+Scroll of Dominate Monster,Scrolls,Magic
+Scroll of Energy Drain (Arcane),Scrolls,Magic
+Scroll of Etherealness (Arcane),Scrolls,Magic
+Scroll of Foresight,Scrolls,Magic
+Scroll of Freedom,Scrolls,Magic
+Scroll of Gate (Arcane),Scrolls,Magic
+"Scroll of Hold Monster, Mass",Scrolls,Magic
+Scroll of Imprisonment,Scrolls,Magic
+Scroll of Mage's Disjunction,Scrolls,Magic
+Scroll of Meteor Swarm,Scrolls,Magic
+Scroll of Power Word Kill,Scrolls,Magic
+Scroll of Prismatic Sphere,Scrolls,Magic
+Scroll of Refuge (Arcane),Scrolls,Magic
+Scroll of Shades (Arcane),Scrolls,Magic
+Scroll of Shapechange,Scrolls,Magic
+Scroll of Soul Bind (Arcane),Scrolls,Magic
+Scroll of Summon Monster IX (Arcane),Scrolls,Magic
+Scroll of Teleportation Circle,Scrolls,Magic
+Scroll of Time Stop,Scrolls,Magic
+Scroll of Wail of the Banshee,Scrolls,Magic
+Scroll of Weird,Scrolls,Magic
+Scroll of Wish,Scrolls,Magic
+Scroll of Bleed (Divine),Scrolls,Magic
+Scroll of Create Water,Scrolls,Magic
+Scroll of Detect Magic (Divine),Scrolls,Magic
+Scroll of Detect Poison (Divine),Scrolls,Magic
+Scroll of Guidance,Scrolls,Magic
+Scroll of Light (Divine),Scrolls,Magic
+Scroll of Mending (Divine),Scrolls,Magic
+Scroll of Purify Food and Drink,Scrolls,Magic
+Scroll of Read Magic (Divine),Scrolls,Magic
+Scroll of Resistance (Divine),Scrolls,Magic
+Scroll of Stabilize,Scrolls,Magic
+Scroll of Virtue,Scrolls,Magic
+Scroll of Bane,Scrolls,Magic
+Scroll of Bless,Scrolls,Magic
+Scroll of Bless Water,Scrolls,Magic
+Scroll of Cause Fear (Divine),Scrolls,Magic
+Scroll of Command,Scrolls,Magic
+Scroll of Comprehend Languages (Divine),Scrolls,Magic
+Scroll of Cure Light Wounds,Scrolls,Magic
+Scroll of Curse Water,Scrolls,Magic
+Scroll of Deathwatch,Scrolls,Magic
+Scroll of Detect Chaos,Scrolls,Magic
+Scroll of Detect Evil,Scrolls,Magic
+Scroll of Detect Good,Scrolls,Magic
+Scroll of Detect Law,Scrolls,Magic
+Scroll of Detect Undead (Divine),Scrolls,Magic
+Scroll of Divine Favor,Scrolls,Magic
+Scroll of Doom,Scrolls,Magic
+Scroll of Endure Elements (Divine),Scrolls,Magic
+Scroll of Entropic Shield,Scrolls,Magic
+Scroll of Hide from Undead,Scrolls,Magic
+Scroll of Inflict Light Wounds,Scrolls,Magic
+Scroll of Magic Stone,Scrolls,Magic
+Scroll of Magic Weapon (Divine),Scrolls,Magic
+Scroll of Obscuring Mist (Divine),Scrolls,Magic
+Scroll of Protection from Chaos (Divine),Scrolls,Magic
+Scroll of Protection from Evil (Divine),Scrolls,Magic
+Scroll of Protection from Good (Divine),Scrolls,Magic
+Scroll of Protection from Law (Divine),Scrolls,Magic
+Scroll of Remove Fear,Scrolls,Magic
+Scroll of Sanctuary,Scrolls,Magic
+Scroll of Shield of Faith,Scrolls,Magic
+Scroll of Summon Monster I (Divine),Scrolls,Magic
+Scroll of Aid,Scrolls,Magic
+Scroll of Align Weapon,Scrolls,Magic
+Scroll of Augury,Scrolls,Magic
+Scroll of Bear's Endurance (Divine),Scrolls,Magic
+Scroll of Bull's Strength (Divine),Scrolls,Magic
+Scroll of Calm Emotions,Scrolls,Magic
+Scroll of Cat's Grace (Divine),Scrolls,Magic
+Scroll of Consecrate,Scrolls,Magic
+Scroll of Cure Moderate Wounds,Scrolls,Magic
+Scroll of Darkness (Divine),Scrolls,Magic
+Scroll of Death Knell,Scrolls,Magic
+Scroll of Delay Poison,Scrolls,Magic
+Scroll of Desecrate,Scrolls,Magic
+Scroll of Eagle's Splendor (Divine),Scrolls,Magic
+Scroll of Enthrall,Scrolls,Magic
+Scroll of Find Traps,Scrolls,Magic
+Scroll of Gentle Repose (Divine),Scrolls,Magic
+Scroll of Hold Person (Divine),Scrolls,Magic
+Scroll of Inflict Moderate Wounds,Scrolls,Magic
+Scroll of Make Whole (Divine),Scrolls,Magic
+Scroll of Owl's Wisdom (Divine),Scrolls,Magic
+Scroll of Remove Paralysis,Scrolls,Magic
+Scroll of Resist Energy (Divine),Scrolls,Magic
+"Scroll of Restoration, Lesser",Scrolls,Magic
+Scroll of Shatter (Divine),Scrolls,Magic
+Scroll of Shield Other,Scrolls,Magic
+Scroll of Silence,Scrolls,Magic
+Scroll of Sound Burst,Scrolls,Magic
+Scroll of Spiritual Weapon,Scrolls,Magic
+Scroll of Status,Scrolls,Magic
+Scroll of Summon Monster II (Divine),Scrolls,Magic
+Scroll of Undetectable Alignment,Scrolls,Magic
+Scroll of Zone of Truth,Scrolls,Magic
+Scroll of Animate Dead (Divine),Scrolls,Magic
+Scroll of Bestow Curse (Divine),Scrolls,Magic
+Scroll of Blindness/Deafness (Divine),Scrolls,Magic
+Scroll of Contagion (Divine),Scrolls,Magic
+Scroll of Continual Flame (Divine),Scrolls,Magic
+Scroll of Create Food and Water,Scrolls,Magic
+Scroll of Cure Serious Wounds,Scrolls,Magic
+Scroll of Daylight (Divine),Scrolls,Magic
+Scroll of Deeper Darkness,Scrolls,Magic
+Scroll of Dispel Magic (Divine),Scrolls,Magic
+Scroll of Glyph of Warding,Scrolls,Magic
+Scroll of Helping Hand,Scrolls,Magic
+Scroll of Inflict Serious Wounds,Scrolls,Magic
+Scroll of Invisibility Purge,Scrolls,Magic
+Scroll of Locate Object (Divine),Scrolls,Magic
+Scroll of Magic Circle Against Chaos (Divine),Scrolls,Magic
+Scroll of Magic Circle Against Evil (Divine),Scrolls,Magic
+Scroll of Magic Circle Against Good (Divine),Scrolls,Magic
+Scroll of Magic Circle Against Law (Divine),Scrolls,Magic
+Scroll of Magic Vestment,Scrolls,Magic
+Scroll of Meld into Stone,Scrolls,Magic
+Scroll of Obscure Object (Divine),Scrolls,Magic
+Scroll of Prayer,Scrolls,Magic
+Scroll of Protection from Energy (Divine),Scrolls,Magic
+Scroll of Remove Blindness/Deafness,Scrolls,Magic
+Scroll of Remove Curse (Divine),Scrolls,Magic
+Scroll of Remove Disease,Scrolls,Magic
+Scroll of Searing Light,Scrolls,Magic
+Scroll of Speak with Dead,Scrolls,Magic
+Scroll of Stone Shape (Divine),Scrolls,Magic
+Scroll of Summon Monster III (Divine),Scrolls,Magic
+Scroll of Water Breathing (Divine),Scrolls,Magic
+Scroll of Water Walk,Scrolls,Magic
+Scroll of Wind Wall (Divine),Scrolls,Magic
+Scroll of Air Walk,Scrolls,Magic
+Scroll of Chaos Hammer,Scrolls,Magic
+Scroll of Control Water (Divine),Scrolls,Magic
+Scroll of Cure Critical Wounds,Scrolls,Magic
+Scroll of Death Ward,Scrolls,Magic
+Scroll of Dimensional Anchor (Divine),Scrolls,Magic
+Scroll of Discern Lies,Scrolls,Magic
+Scroll of Dismissal (Divine),Scrolls,Magic
+Scroll of Divination,Scrolls,Magic
+Scroll of Divine Power,Scrolls,Magic
+Scroll of Freedom of Movement,Scrolls,Magic
+Scroll of Giant Vermin,Scrolls,Magic
+Scroll of Holy Smite,Scrolls,Magic
+Scroll of Imbue with Spell Ability,Scrolls,Magic
+Scroll of Inflict Critical Wounds,Scrolls,Magic
+"Scroll of Magic Weapon, Greater (Divine)",Scrolls,Magic
+Scroll of Neutralize Poison,Scrolls,Magic
+Scroll of Order's Wrath,Scrolls,Magic
+"Scroll of Planar Ally, Lesser",Scrolls,Magic
+Scroll of Poison,Scrolls,Magic
+Scroll of Repel Vermin (Divine),Scrolls,Magic
+Scroll of Restoration,Scrolls,Magic
+Scroll of Sending (Divine),Scrolls,Magic
+Scroll of Spell Immunity,Scrolls,Magic
+Scroll of Summon Monster IV (Divine),Scrolls,Magic
+Scroll of Tongues (Divine),Scrolls,Magic
+Scroll of Unholy Blight,Scrolls,Magic
+Scroll of Atonement,Scrolls,Magic
+Scroll of Break Enchantment (Divine),Scrolls,Magic
+Scroll of Breath of Life,Scrolls,Magic
+"Scroll of Command, Greater",Scrolls,Magic
+Scroll of Commune,Scrolls,Magic
+"Scroll of Cure Light Wounds, Mass",Scrolls,Magic
+Scroll of Dispel Chaos,Scrolls,Magic
+Scroll of Dispel Evil,Scrolls,Magic
+Scroll of Dispel Good,Scrolls,Magic
+Scroll of Dispel Law,Scrolls,Magic
+Scroll of Disrupting Weapon,Scrolls,Magic
+Scroll of Flame Strike,Scrolls,Magic
+Scroll of Hallow,Scrolls,Magic
+"Scroll of Inflict Light Wounds, Mass",Scrolls,Magic
+Scroll of Insect Plague,Scrolls,Magic
+Scroll of Mark of Justice,Scrolls,Magic
+Scroll of Plane Shift (Divine),Scrolls,Magic
+Scroll of Raise Dead,Scrolls,Magic
+Scroll of Righteous Might,Scrolls,Magic
+Scroll of Scrying (Divine),Scrolls,Magic
+Scroll of Slay Living,Scrolls,Magic
+Scroll of Spell Resistance,Scrolls,Magic
+Scroll of Summon Monster V (Divine),Scrolls,Magic
+Scroll of Symbol of Pain (Divine),Scrolls,Magic
+Scroll of Symbol of Sleep (Divine),Scrolls,Magic
+Scroll of True Seeing (Divine),Scrolls,Magic
+Scroll of Unhallow,Scrolls,Magic
+Scroll of Wall of Stone (Divine),Scrolls,Magic
+Scroll of Animate Objects (Divine),Scrolls,Magic
+Scroll of Antilife Shell,Scrolls,Magic
+Scroll of Banishment (Divine),Scrolls,Magic
+"Scroll of Bear's Endurance, Mass (Divine)",Scrolls,Magic
+Scroll of Blade Barrier,Scrolls,Magic
+"Scroll of Bull's Strength, Mass (Divine)",Scrolls,Magic
+"Scroll of Cat's Grace, Mass (Divine)",Scrolls,Magic
+Scroll of Create Undead (Divine),Scrolls,Magic
+"Scroll of Cure Moderate Wounds, Mass",Scrolls,Magic
+"Scroll of Dispel Magic, Greater (Divine)",Scrolls,Magic
+"Scroll of Eagle's Splendor, Mass (Divine)",Scrolls,Magic
+Scroll of Find the Path,Scrolls,Magic
+Scroll of Forbiddance,Scrolls,Magic
+Scroll of Geas/Quest (Divine),Scrolls,Magic
+"Scroll of Glyph of Warding, Greater",Scrolls,Magic
+Scroll of Harm,Scrolls,Magic
+Scroll of Heal,Scrolls,Magic
+Scroll of Heroes' Feast,Scrolls,Magic
+"Scroll of Inflict Moderate Wounds, Mass",Scrolls,Magic
+"Scroll of Owl's Wisdom, Mass (Divine)",Scrolls,Magic
+Scroll of Planar Ally,Scrolls,Magic
+Scroll of Summon Monster VI (Divine),Scrolls,Magic
+Scroll of Symbol of Fear (Divine),Scrolls,Magic
+Scroll of Symbol of Persuasion (Divine),Scrolls,Magic
+Scroll of Undeath to Death (Divine),Scrolls,Magic
+Scroll of Wind Walk,Scrolls,Magic
+Scroll of Word of Recall,Scrolls,Magic
+Scroll of Blasphemy,Scrolls,Magic
+Scroll of Control Weather (Divine),Scrolls,Magic
+"Scroll of Cure Serious Wounds, Mass",Scrolls,Magic
+Scroll of Destruction,Scrolls,Magic
+Scroll of Dictum,Scrolls,Magic
+Scroll of Ethereal Jaunt (Divine),Scrolls,Magic
+Scroll of Holy Word,Scrolls,Magic
+"Scroll of Inflict Serious Wounds, Mass",Scrolls,Magic
+Scroll of Refuge (Divine),Scrolls,Magic
+Scroll of Regenerate,Scrolls,Magic
+Scroll of Repulsion (Divine),Scrolls,Magic
+"Scroll of Restoration, Greater",Scrolls,Magic
+Scroll of Resurrection,Scrolls,Magic
+"Scroll of Scrying, Greater (Divine)",Scrolls,Magic
+Scroll of Summon Monster VII (Divine),Scrolls,Magic
+Scroll of Symbol of Stunning (Divine),Scrolls,Magic
+Scroll of Symbol of Weakness (Divine),Scrolls,Magic
+Scroll of Word of Chaos,Scrolls,Magic
+Scroll of Antimagic Field (Divine),Scrolls,Magic
+Scroll of Cloak of Chaos,Scrolls,Magic
+"Scroll of Create Undead, Greater (Divine)",Scrolls,Magic
+"Scroll of Cure Critical Wounds, Mass",Scrolls,Magic
+Scroll of Dimensional Lock (Divine),Scrolls,Magic
+Scroll of Discern Location (Divine),Scrolls,Magic
+Scroll of Earthquake,Scrolls,Magic
+Scroll of Fire Storm,Scrolls,Magic
+Scroll of Holy Aura,Scrolls,Magic
+"Scroll of Inflict Critical Wounds, Mass",Scrolls,Magic
+"Scroll of Planar Ally, Greater",Scrolls,Magic
+Scroll of Shield of Law,Scrolls,Magic
+"Scroll of Spell Immunity, Greater",Scrolls,Magic
+Scroll of Summon Monster VIII (Divine),Scrolls,Magic
+Scroll of Symbol of Death (Divine),Scrolls,Magic
+Scroll of Symbol of Insanity (Divine),Scrolls,Magic
+Scroll of Unholy Aura,Scrolls,Magic
+Scroll of Astral Projection (Divine),Scrolls,Magic
+Scroll of Energy Drain (Divine),Scrolls,Magic
+Scroll of Etherealness (Divine),Scrolls,Magic
+Scroll of Gate (Divine),Scrolls,Magic
+"Scroll of Heal, Mass",Scrolls,Magic
+Scroll of Implosion,Scrolls,Magic
+Scroll of Miracle,Scrolls,Magic
+Scroll of Soul Bind (Divine),Scrolls,Magic
+Scroll of Storm of Vengeance,Scrolls,Magic
+Scroll of Summon Monster IX (Divine),Scrolls,Magic
+Scroll of True Resurrection,Scrolls,Magic
+Wand of Acid Splash,Wands,Magic
+Wand of Arcane Mark,Wands,Magic
+Wand of Bleed,Wands,Magic
+Wand of Create Water,Wands,Magic
+Wand of Dancing Lights,Wands,Magic
+Wand of Daze,Wands,Magic
+Wand of Detect Magic,Wands,Magic
+Wand of Detect Poison,Wands,Magic
+Wand of Disrupt Undead,Wands,Magic
+Wand of Flare,Wands,Magic
+Wand of Ghost Sound,Wands,Magic
+Wand of Guidance,Wands,Magic
+Wand of Know Direction,Wands,Magic
+Wand of Light,Wands,Magic
+Wand of Lullaby,Wands,Magic
+Wand of Mage Hand,Wands,Magic
+Wand of Mending,Wands,Magic
+Wand of Message,Wands,Magic
+Wand of Open/Close,Wands,Magic
+Wand of Prestidigitation,Wands,Magic
+Wand of Purify Food and Drink,Wands,Magic
+Wand of Ray of Frost,Wands,Magic
+Wand of Read Magic,Wands,Magic
+Wand of Resistance,Wands,Magic
+Wand of Stabilize,Wands,Magic
+Wand of Summon Instrument,Wands,Magic
+Wand of Touch of Fatigue,Wands,Magic
+Wand of Virtue,Wands,Magic
+Wand of Alarm,Wands,Magic
+Wand of Bane,Wands,Magic
+Wand of Bless,Wands,Magic
+Wand of Bless Water,Wands,Magic
+Wand of Bless Weapon,Wands,Magic
+Wand of Burning Hands,Wands,Magic
+Wand of Calm Animals,Wands,Magic
+Wand of Cause Fear,Wands,Magic
+Wand of Charm Animal,Wands,Magic
+Wand of Charm Person,Wands,Magic
+Wand of Chill Touch,Wands,Magic
+Wand of Color Spray,Wands,Magic
+Wand of Command,Wands,Magic
+Wand of Comprehend Languages,Wands,Magic
+"Wand of Confusion, Lesser",Wands,Magic
+Wand of Cure Light Wounds,Wands,Magic
+Wand of Curse Water,Wands,Magic
+Wand of Deathwatch,Wands,Magic
+Wand of Detect Chaos,Wands,Magic
+Wand of Detect Evil,Wands,Magic
+Wand of Detect Good,Wands,Magic
+Wand of Detect Law,Wands,Magic
+Wand of Detect Secret Doors,Wands,Magic
+Wand of Detect Snares and Pits,Wands,Magic
+Wand of Detect Undead,Wands,Magic
+Wand of Disguise Self,Wands,Magic
+Wand of Divine Favor,Wands,Magic
+Wand of Doom,Wands,Magic
+Wand of Endure Elements,Wands,Magic
+Wand of Enlarge Person,Wands,Magic
+Wand of Entangle,Wands,Magic
+Wand of Entropic Shield,Wands,Magic
+Wand of Erase,Wands,Magic
+Wand of Expeditious Retreat,Wands,Magic
+Wand of Faerie Fire,Wands,Magic
+Wand of Feather Fall,Wands,Magic
+Wand of Floating Disk,Wands,Magic
+Wand of Goodberry,Wands,Magic
+Wand of Grease,Wands,Magic
+Wand of Hide from Animals,Wands,Magic
+Wand of Hide from Undead,Wands,Magic
+Wand of Hold Portal,Wands,Magic
+Wand of Hypnotism,Wands,Magic
+Wand of Identify,Wands,Magic
+Wand of Inflict Light Wounds,Wands,Magic
+Wand of Jump,Wands,Magic
+Wand of Longstrider,Wands,Magic
+Wand of Mage Armor,Wands,Magic
+Wand of Magic Fang,Wands,Magic
+Wand of Magic Missile,Wands,Magic
+Wand of Magic Stone,Wands,Magic
+Wand of Magic Weapon,Wands,Magic
+Wand of Mount,Wands,Magic
+Wand of Obscuring Mist,Wands,Magic
+Wand of Pass without Trace,Wands,Magic
+Wand of Produce Flame,Wands,Magic
+Wand of Protection from Chaos,Wands,Magic
+Wand of Protection from Evil,Wands,Magic
+Wand of Protection from Good,Wands,Magic
+Wand of Protection from Law,Wands,Magic
+Wand of Ray of Enfeeblement,Wands,Magic
+Wand of Reduce Person,Wands,Magic
+Wand of Remove Fear,Wands,Magic
+Wand of Sanctuary,Wands,Magic
+Wand of Shield,Wands,Magic
+Wand of Shield of Faith,Wands,Magic
+Wand of Shillelagh,Wands,Magic
+Wand of Shocking Grasp,Wands,Magic
+Wand of Silent Image,Wands,Magic
+Wand of Sleep,Wands,Magic
+Wand of Summon Monster I,Wands,Magic
+Wand of Summon Nature's Ally I,Wands,Magic
+Wand of True Strike,Wands,Magic
+Wand of Unseen Servant,Wands,Magic
+Wand of Ventriloquism,Wands,Magic
+Wand of Acid Arrow,Wands,Magic
+Wand of Aid,Wands,Magic
+Wand of Align Weapon,Wands,Magic
+Wand of Alter Self,Wands,Magic
+Wand of Animal Messenger,Wands,Magic
+Wand of Animal Trance,Wands,Magic
+Wand of Arcane Lock,Wands,Magic
+Wand of Augury,Wands,Magic
+Wand of Barkskin,Wands,Magic
+Wand of Bear's Endurance,Wands,Magic
+Wand of Blindness/Deafness,Wands,Magic
+Wand of Blur,Wands,Magic
+Wand of Bull's Strength,Wands,Magic
+Wand of Calm Emotions,Wands,Magic
+Wand of Cat's Grace,Wands,Magic
+Wand of Chill Metal,Wands,Magic
+Wand of Command Undead,Wands,Magic
+Wand of Continual Flame,Wands,Magic
+Wand of Cure Moderate Wounds,Wands,Magic
+Wand of Darkness,Wands,Magic
+Wand of Darkvision,Wands,Magic
+Wand of Daze Monster,Wands,Magic
+Wand of Death Knell,Wands,Magic
+Wand of Delay Poison,Wands,Magic
+Wand of Detect Thoughts,Wands,Magic
+Wand of Eagle's Splendor,Wands,Magic
+Wand of Enthrall,Wands,Magic
+Wand of False Life,Wands,Magic
+Wand of Find Traps,Wands,Magic
+Wand of Flame Blade,Wands,Magic
+Wand of Flaming Sphere,Wands,Magic
+Wand of Fog Cloud,Wands,Magic
+Wand of Fox's Cunning,Wands,Magic
+Wand of Gentle Repose,Wands,Magic
+Wand of Ghoul Touch,Wands,Magic
+Wand of Glitterdust,Wands,Magic
+Wand of Heat Metal,Wands,Magic
+Wand of Hideous Laughter,Wands,Magic
+Wand of Hold Animal,Wands,Magic
+Wand of Hold Person,Wands,Magic
+Wand of Hypnotic Pattern,Wands,Magic
+Wand of Inflict Moderate Wounds,Wands,Magic
+Wand of Invisibility,Wands,Magic
+Wand of Knock,Wands,Magic
+Wand of Levitate,Wands,Magic
+Wand of Locate Object,Wands,Magic
+Wand of Make Whole,Wands,Magic
+Wand of Minor Image,Wands,Magic
+Wand of Mirror Image,Wands,Magic
+Wand of Misdirection,Wands,Magic
+Wand of Obscure Object,Wands,Magic
+Wand of Owl's Wisdom,Wands,Magic
+Wand of Protection from Arrows,Wands,Magic
+Wand of Pyrotechnics,Wands,Magic
+Wand of Rage,Wands,Magic
+Wand of Reduce Animal,Wands,Magic
+Wand of Remove Paralysis,Wands,Magic
+Wand of Resist Energy,Wands,Magic
+"Wand of Restoration, Lesser",Wands,Magic
+Wand of Rope Trick,Wands,Magic
+Wand of Scare,Wands,Magic
+Wand of Scorching Ray,Wands,Magic
+Wand of See Invisibility,Wands,Magic
+Wand of Shatter,Wands,Magic
+Wand of Shield Other,Wands,Magic
+Wand of Silence,Wands,Magic
+Wand of Sound Burst,Wands,Magic
+Wand of Spectral Hand,Wands,Magic
+Wand of Spider Climb,Wands,Magic
+Wand of Spiritual Weapon,Wands,Magic
+Wand of Status,Wands,Magic
+Wand of Summon Monster II,Wands,Magic
+Wand of Summon Nature's Ally II,Wands,Magic
+Wand of Summon Swarm,Wands,Magic
+Wand of Touch of Idiocy,Wands,Magic
+Wand of Tree Shape,Wands,Magic
+Wand of Undetectable Alignment,Wands,Magic
+Wand of Warp Wood,Wands,Magic
+Wand of Web,Wands,Magic
+Wand of Whispering Wind,Wands,Magic
+Wand of Wood Shape,Wands,Magic
+Wand of Zone of Truth,Wands,Magic
+Wand of Animate Dead,Wands,Magic
+Wand of Arcane Sight,Wands,Magic
+Wand of Beast Shape I,Wands,Magic
+Wand of Bestow Curse,Wands,Magic
+Wand of Blink,Wands,Magic
+Wand of Call Lightning,Wands,Magic
+Wand of Clairaudience/Clairvoyance,Wands,Magic
+Wand of Contagion,Wands,Magic
+Wand of Create Food and Water,Wands,Magic
+Wand of Cure Serious Wounds,Wands,Magic
+Wand of Daylight,Wands,Magic
+Wand of Deep Slumber,Wands,Magic
+Wand of Deeper Darkness,Wands,Magic
+Wand of Dispel Magic,Wands,Magic
+Wand of Displacement,Wands,Magic
+Wand of Dominate Animal,Wands,Magic
+Wand of Explosive Runes,Wands,Magic
+Wand of Fireball,Wands,Magic
+Wand of Flame Arrow,Wands,Magic
+Wand of Fly,Wands,Magic
+Wand of Gaseous Form,Wands,Magic
+Wand of Glibness,Wands,Magic
+Wand of Good Hope,Wands,Magic
+Wand of Haste,Wands,Magic
+Wand of Heal Mount,Wands,Magic
+Wand of Heroism,Wands,Magic
+Wand of Inflict Serious Wounds,Wands,Magic
+Wand of Invisibility Purge,Wands,Magic
+Wand of Invisibility Sphere,Wands,Magic
+Wand of Keen Edge,Wands,Magic
+Wand of Lightning Bolt,Wands,Magic
+Wand of Magic Circle Against Chaos,Wands,Magic
+Wand of Magic Circle Against Evil,Wands,Magic
+Wand of Magic Circle Against Good,Wands,Magic
+Wand of Magic Circle Against Law,Wands,Magic
+"Wand of Magic Fang, Greater",Wands,Magic
+Wand of Magic Vestment,Wands,Magic
+"Wand of Magic Weapon, Greater",Wands,Magic
+Wand of Major Image,Wands,Magic
+Wand of Meld into Stone,Wands,Magic
+Wand of Nondetection,Wands,Magic
+Wand of Prayer,Wands,Magic
+Wand of Protection from Energy,Wands,Magic
+Wand of Ray of Exhaustion,Wands,Magic
+Wand of Remove Blindness/Deafness,Wands,Magic
+Wand of Remove Curse,Wands,Magic
+Wand of Remove Disease,Wands,Magic
+Wand of Sculpt Sound,Wands,Magic
+Wand of Searing Light,Wands,Magic
+Wand of Sleet Storm,Wands,Magic
+Wand of Slow,Wands,Magic
+Wand of Snare,Wands,Magic
+Wand of Speak with Dead,Wands,Magic
+Wand of Speak with Plants,Wands,Magic
+Wand of Spike Growth,Wands,Magic
+Wand of Stinking Cloud,Wands,Magic
+Wand of Stone Shape,Wands,Magic
+Wand of Suggestion,Wands,Magic
+Wand of Summon Monster III,Wands,Magic
+Wand of Summon Nature's Ally III,Wands,Magic
+Wand of Tongues,Wands,Magic
+Wand of Vampiric Touch,Wands,Magic
+Wand of Water Breathing,Wands,Magic
+Wand of Water Walk,Wands,Magic
+Wand of Wind Wall,Wands,Magic
+Wand of Air Walk,Wands,Magic
+Wand of Animal Growth,Wands,Magic
+Wand of Antiplant Shell,Wands,Magic
+Wand of Arcane Eye,Wands,Magic
+Wand of Beast Shape II,Wands,Magic
+Wand of Black Tentacles,Wands,Magic
+Wand of Break Enchantment,Wands,Magic
+Wand of Chaos Hammer,Wands,Magic
+Wand of Charm Monster,Wands,Magic
+Wand of Commune with Nature,Wands,Magic
+Wand of Confusion,Wands,Magic
+Wand of Crushing Despair,Wands,Magic
+Wand of Cure Critical Wounds,Wands,Magic
+Wand of Death Ward,Wands,Magic
+Wand of Detect Scrying,Wands,Magic
+Wand of Dimension Door,Wands,Magic
+Wand of Dimensional Anchor,Wands,Magic
+Wand of Discern Lies,Wands,Magic
+Wand of Dismissal,Wands,Magic
+Wand of Dispel Chaos,Wands,Magic
+Wand of Dispel Evil,Wands,Magic
+Wand of Dispel Good,Wands,Magic
+Wand of Dispel Law,Wands,Magic
+Wand of Divination,Wands,Magic
+Wand of Divine Power,Wands,Magic
+Wand of Dominate Person,Wands,Magic
+Wand of Elemental Body I,Wands,Magic
+Wand of Enervation,Wands,Magic
+"Wand of Enlarge Person, Mass",Wands,Magic
+Wand of Fear,Wands,Magic
+Wand of Fire Shield,Wands,Magic
+Wand of Fire Trap,Wands,Magic
+Wand of Flame Strike,Wands,Magic
+Wand of Freedom of Movement,Wands,Magic
+"Wand of Geas, Lesser",Wands,Magic
+"Wand of Globe of Invulnerability, Lesser",Wands,Magic
+Wand of Hallucinatory Terrain,Wands,Magic
+Wand of Hold Monster,Wands,Magic
+Wand of Holy Smite,Wands,Magic
+Wand of Holy Sword,Wands,Magic
+Wand of Ice Storm,Wands,Magic
+Wand of Illusory Wall,Wands,Magic
+Wand of Imbue with Spell Ability,Wands,Magic
+Wand of Inflict Critical Wounds,Wands,Magic
+"Wand of Invisibility, Greater",Wands,Magic
+Wand of Legend Lore,Wands,Magic
+Wand of Locate Creature,Wands,Magic
+Wand of Modify Memory,Wands,Magic
+Wand of Neutralize Poison,Wands,Magic
+Wand of Order's Wrath,Wands,Magic
+Wand of Phantasmal Killer,Wands,Magic
+Wand of Poison,Wands,Magic
+"Wand of Reduce Person, Mass",Wands,Magic
+Wand of Reincarnate,Wands,Magic
+Wand of Restoration,Wands,Magic
+Wand of Rusting Grasp,Wands,Magic
+Wand of Scrying,Wands,Magic
+Wand of Sending,Wands,Magic
+Wand of Shout,Wands,Magic
+Wand of Solid Fog,Wands,Magic
+Wand of Spell Immunity,Wands,Magic
+Wand of Spike Stones,Wands,Magic
+Wand of Summon Monster IV,Wands,Magic
+Wand of Summon Nature's Ally IV,Wands,Magic
+Wand of Unholy Blight,Wands,Magic
+Wand of Wall of Fire,Wands,Magic
+Wand of Wall of Ice,Wands,Magic
+Wand of Zone of Silence,Wands,Magic
+Wand of Animate Rope,Wands,Magic
+Wand of Detect Animals or Plants,Wands,Magic
+Wand of Magic Aura,Wands,Magic
+Wand of Consecrate,Wands,Magic
+Wand of Desecrate,Wands,Magic
+Wand of Gust of Wind,Wands,Magic
+Wand of Magic Mouth,Wands,Magic
+Wand of Phantom Trap,Wands,Magic
+Wand of Soften Earth and Stone,Wands,Magic
+Wand of Diminish Plants,Wands,Magic
+Wand of Glyph of Warding,Wands,Magic
+Wand of Halt Undead,Wands,Magic
+Wand of Helping Hand,Wands,Magic
+Wand of Illusory Script,Wands,Magic
+Wand of Phantom Steed,Wands,Magic
+Wand of Plant Growth,Wands,Magic
+Wand of Quench,Wands,Magic
+Wand of Secret Page,Wands,Magic
+Wand of Sepia Snake Sigil,Wands,Magic
+Wand of Shrink Item,Wands,Magic
+Wand of Tiny Hut,Wands,Magic
+Wand of Blight,Wands,Magic
+Wand of Command Plants,Wands,Magic
+Wand of Control Water,Wands,Magic
+Wand of Giant Vermin,Wands,Magic
+Wand of Minor Creation,Wands,Magic
+Wand of Mnemonic Enhancer,Wands,Magic
+"Wand of Planar Ally, Lesser",Wands,Magic
+Wand of Rainbow Pattern,Wands,Magic
+Wand of Repel Vermin,Wands,Magic
+Wand of Resilient Sphere,Wands,Magic
+Wand of Secure Shelter,Wands,Magic
+Wand of Shadow Conjuration,Wands,Magic
+Amulet of Mighty Fists +1,Wonderous Items,Magic
+Amulet of Mighty Fists +2,Wonderous Items,Magic
+Amulet of Mighty Fists +3,Wonderous Items,Magic
+Amulet of Mighty Fists +4,Wonderous Items,Magic
+Amulet of Mighty Fists +5,Wonderous Items,Magic
+Amulet of Natural Armor +1,Wonderous Items,Magic
+Amulet of Natural Armor +2,Wonderous Items,Magic
+Amulet of Natural Armor +3,Wonderous Items,Magic
+Amulet of Natural Armor +4,Wonderous Items,Magic
+Amulet of Natural Armor +5,Wonderous Items,Magic
+Amulet of the Planes,Wonderous Items,Magic
+Amulet of Proof Against Detection and Location,Wonderous Items,Magic
+Apparatus of the Crab,Wonderous Items,Magic
+Bag of Holding (Type I),Wonderous Items,Magic
+Bag of Holding (Type II),Wonderous Items,Magic
+Bag of Holding (Type III),Wonderous Items,Magic
+Bag of Holding (Type IV),Wonderous Items,Magic
+Bag of Tricks (Gray),Wonderous Items,Magic
+Bag of Tricks (Rust),Wonderous Items,Magic
+Bag of Tricks (Tan),Wonderous Items,Magic
+Bead of Force,Wonderous Items,Magic
+Belt of Dwarvenkind,Wonderous Items,Magic
+Belt of Giant Strength +2,Wonderous Items,Magic
+Belt of Giant Strength +4,Wonderous Items,Magic
+Belt of Giant Strength +6,Wonderous Items,Magic
+Belt of Incredible Dexterity +2,Wonderous Items,Magic
+Belt of Incredible Dexterity +4,Wonderous Items,Magic
+Belt of Incredible Dexterity +6,Wonderous Items,Magic
+Belt of Mighty Constitution +2,Wonderous Items,Magic
+Belt of Mighty Constitution +4,Wonderous Items,Magic
+Belt of Mighty Constitution +6,Wonderous Items,Magic
+"Belt of Physical Might +2 (Str, Dex)",Wonderous Items,Magic
+"Belt of Physical Might +4 (Str, Dex)",Wonderous Items,Magic
+"Belt of Physical Might +6 (Str, Dex)",Wonderous Items,Magic
+"Belt of Physical Might +2 (Str, Con)",Wonderous Items,Magic
+"Belt of Physical Might +4 (Str, Con)",Wonderous Items,Magic
+"Belt of Physical Might +6 (Str, Con)",Wonderous Items,Magic
+"Belt of Physical Might +2 (Dex, Con)",Wonderous Items,Magic
+"Belt of Physical Might +4 (Dex, Con)",Wonderous Items,Magic
+"Belt of Physical Might +6 (Dex, Con)",Wonderous Items,Magic
+Belt of Physical Perfection +2,Wonderous Items,Magic
+Belt of Physical Perfection +4,Wonderous Items,Magic
+Belt of Physical Perfection +6,Wonderous Items,Magic
+Blessed Book,Wonderous Items,Magic
+Folding Boat,Wonderous Items,Magic
+Boots of Elvenkind,Wonderous Items,Magic
+Boots of Levitation,Wonderous Items,Magic
+Boots of Speed,Wonderous Items,Magic
+Boots of Striding And Springing,Wonderous Items,Magic
+Boots of Teleportation,Wonderous Items,Magic
+Boots of the Winterlands,Wonderous Items,Magic
+Winged Boots,Wonderous Items,Magic
+Bottle of Air,Wonderous Items,Magic
+Bracelet of Friends,Wonderous Items,Magic
+Greater Bracers of Archery,Wonderous Items,Magic
+Lesser Bracers of Archery,Wonderous Items,Magic
+Bracers of Armor +1,Wonderous Items,Magic
+Bracers of Armor +2,Wonderous Items,Magic
+Bracers of Armor +3,Wonderous Items,Magic
+Bracers of Armor +4,Wonderous Items,Magic
+Bracers of Armor +5,Wonderous Items,Magic
+Bracers of Armor +6,Wonderous Items,Magic
+Bracers of Armor +7,Wonderous Items,Magic
+Bracers of Armor +8,Wonderous Items,Magic
+"#Bracers of Armor: Need to make modifier for this. COST=PLUS*PLUS*1000, max PLUS w/o Epic is +8, must have +1 minimum.",Wonderous Items,Magic
+Brooch of Shielding,Wonderous Items,Magic
+Broom of Flying,Wonderous Items,Magic
+Candle of Invocation (Lawful Good),Wonderous Items,Magic
+Candle of Invocation (Neutral Good),Wonderous Items,Magic
+Candle of Invocation (Chaotic Good),Wonderous Items,Magic
+Candle of Invocation (Lawful Neutral),Wonderous Items,Magic
+Candle of Invocation (Neutral),Wonderous Items,Magic
+Candle of Invocation (Chaotic Neutral),Wonderous Items,Magic
+Candle of Invocation (Lawful Evil),Wonderous Items,Magic
+Candle of Invocation (Neutral Evil),Wonderous Items,Magic
+Candle of Invocation (Chaotic Evil),Wonderous Items,Magic
+Candle of Truth,Wonderous Items,Magic
+Cape of the Mountebank,Wonderous Items,Magic
+Carpet of Flying (5 ft. by 5 ft.),Wonderous Items,Magic
+Carpet of Flying (5 ft. by 10 ft.),Wonderous Items,Magic
+Carpet of Flying (10 ft. by 10 ft.),Wonderous Items,Magic
+Chime of Interruption,Wonderous Items,Magic
+Chime of Opening,Wonderous Items,Magic
+Circlet of Persuasion,Wonderous Items,Magic
+Cloak of Arachnida,Wonderous Items,Magic
+Cloak of the Bat,Wonderous Items,Magic
+Major Cloak of Displacement,Wonderous Items,Magic
+Minor Cloak of Displacement,Wonderous Items,Magic
+Cloak of Elvenkind,Wonderous Items,Magic
+Cloak of Etherealness,Wonderous Items,Magic
+Cloak of the Manta Ray,Wonderous Items,Magic
+#Swim speed of 60 with PREAPPLY???,Wonderous Items,Magic
+Cloak of Resistance +1,Wonderous Items,Magic
+Cloak of Resistance +2,Wonderous Items,Magic
+Cloak of Resistance +3,Wonderous Items,Magic
+Cloak of Resistance +4,Wonderous Items,Magic
+Cloak of Resistance +5,Wonderous Items,Magic
+Minor Crown of Blasting,Wonderous Items,Magic
+Major Crown of Blasting,Wonderous Items,Magic
+Crystal Ball,Wonderous Items,Magic
+Crystal Ball (See Invisibility),Wonderous Items,Magic
+Crystal Ball (Detect Thoughts),Wonderous Items,Magic
+Crystal Ball (Telepathy),Wonderous Items,Magic
+Crystal Ball (True Seeing),Wonderous Items,Magic
+Cube of Force,Wonderous Items,Magic
+Cube of Frost Resistance,Wonderous Items,Magic
+Cubic Gate,Wonderous Items,Magic
+Darkskull,Wonderous Items,Magic
+Decanter of Endless Water,Wonderous Items,Magic
+Deck of Illusions,Wonderous Items,Magic
+Dimensional Shackles,Wonderous Items,Magic
+Drums of Panic,Wonderous Items,Magic
+Dust of Appearance,Wonderous Items,Magic
+Dust of Disappearance,Wonderous Items,Magic
+Dust of Dryness,Wonderous Items,Magic
+Dust of Illusion,Wonderous Items,Magic
+Dust of Tracelessness,Wonderous Items,Magic
+Efficient Quiver,Wonderous Items,Magic
+Efreeti Bottle,Wonderous Items,Magic
+Elemental Gem (Air),Wonderous Items,Magic
+Elemental Gem (Earth),Wonderous Items,Magic
+Elemental Gem (Fire),Wonderous Items,Magic
+Elemental Gem (Water),Wonderous Items,Magic
+Elixir of Fire Breath,Wonderous Items,Magic
+Elixir of Hiding,Wonderous Items,Magic
+Elixir of Love,Wonderous Items,Magic
+Elixir of Swimming,Wonderous Items,Magic
+Elixir of Truth,Wonderous Items,Magic
+Elixir of Tumbling,Wonderous Items,Magic
+Elixir of Vision,Wonderous Items,Magic
+Eversmoking Bottle,Wonderous Items,Magic
+Eyes of Charming,Wonderous Items,Magic
+Eyes of Doom,Wonderous Items,Magic
+Eyes of the Eagle,Wonderous Items,Magic
+Feather Token (Anchor),Wonderous Items,Magic
+Feather Token (Bird),Wonderous Items,Magic
+Feather Token (Fan),Wonderous Items,Magic
+Feather Token (Swan Boat),Wonderous Items,Magic
+Feather Token (Tree),Wonderous Items,Magic
+Feather Token (Whip),Wonderous Items,Magic
+Figurine of Wondrous Power (Bronze Griffon),Wonderous Items,Magic
+Figurine of Wondrous Power (Ebony Fly),Wonderous Items,Magic
+Figurine of Wondrous Power (Golden Lions),Wonderous Items,Magic
+Figurine of Wondrous Power (Ivory Goats),Wonderous Items,Magic
+Figurine of Wondrous Power (Marble Elephants),Wonderous Items,Magic
+Figurine of Wondrous Power (Obsidian Steed),Wonderous Items,Magic
+Figurine of Wondrous Power (Onyx Dog),Wonderous Items,Magic
+Figurine of Wondrous Power (Serpentine Owl),Wonderous Items,Magic
+Figurine of Wondrous Power (Silver Raven),Wonderous Items,Magic
+Gauntlet of Rust,Wonderous Items,Magic
+Gem of Brightness,Wonderous Items,Magic
+Gem of Seeing,Wonderous Items,Magic
+Gloves of Arrow Snaring,Wonderous Items,Magic
+Glove of Storing,Wonderous Items,Magic
+Gloves of Swimming and Climbing,Wonderous Items,Magic
+Goggles of Minute Seeing,Wonderous Items,Magic
+Goggles of Night,Wonderous Items,Magic
+Golem Manual (Clay),Wonderous Items,Magic
+Golem Manual (Flesh),Wonderous Items,Magic
+Golem Manual (Iron),Wonderous Items,Magic
+Golem Manual (Stone),Wonderous Items,Magic
+Golem Manual (Stone Guardian),Wonderous Items,Magic
+Hand of Glory,Wonderous Items,Magic
+Hand of the Mage,Wonderous Items,Magic
+Handy Haversack,Wonderous Items,Magic
+Harp of Charming,Wonderous Items,Magic
+Hat of Disguise,Wonderous Items,Magic
+Headband of Alluring Charisma +2,Wonderous Items,Magic
+Headband of Alluring Charisma +4,Wonderous Items,Magic
+Headband of Alluring Charisma +6,Wonderous Items,Magic
+Headband of Inspired Wisdom +2,Wonderous Items,Magic
+Headband of Inspired Wisdom +4,Wonderous Items,Magic
+Headband of Inspired Wisdom +6,Wonderous Items,Magic
+"Headband of Mental Prowess +2 (Int, Wis)",Wonderous Items,Magic
+"Headband of Mental Prowess +4 (Int, Wis)",Wonderous Items,Magic
+"Headband of Mental Prowess +6 (Int, Wis)",Wonderous Items,Magic
+"Headband of Mental Prowess +2 (Int, Cha)",Wonderous Items,Magic
+"Headband of Mental Prowess +4 (Int, Cha)",Wonderous Items,Magic
+"Headband of Mental Prowess +6 (Int, Cha)",Wonderous Items,Magic
+"Headband of Mental Prowess +2 (Wis, Cha)",Wonderous Items,Magic
+"Headband of Mental Prowess +4 (Wis, Cha)",Wonderous Items,Magic
+"Headband of Mental Prowess +6 (Wis, Cha)",Wonderous Items,Magic
+Headband of Mental Superiority +2,Wonderous Items,Magic
+Headband of Mental Superiority +4,Wonderous Items,Magic
+Headband of Mental Superiority +6,Wonderous Items,Magic
+Headband of Vast Intelligence +2,Wonderous Items,Magic
+Headband of Vast Intelligence +4,Wonderous Items,Magic
+Headband of Vast Intelligence +6,Wonderous Items,Magic
+Helm of Brilliance,Wonderous Items,Magic
+Helm of Comprehend Languages and Read Magic,Wonderous Items,Magic
+Helm of Telepathy,Wonderous Items,Magic
+Helm of Teleportation,Wonderous Items,Magic
+Helm of Underwater Action,Wonderous Items,Magic
+Horn of Blasting,Wonderous Items,Magic
+Greater Horn of Blasting,Wonderous Items,Magic
+Horn of Fog,Wonderous Items,Magic
+Horn of Goodness/Evil,Wonderous Items,Magic
+Horn of Valhalla (Silver),Wonderous Items,Magic
+Horn of Valhalla (Brass),Wonderous Items,Magic
+Horn of Valhalla (Bronze),Wonderous Items,Magic
+Horn of Valhalla (Iron),Wonderous Items,Magic
+Horseshoes of Speed,Wonderous Items,Magic
+Horseshoes of a Zephyr,Wonderous Items,Magic
+Incense of Meditation,Wonderous Items,Magic
+Instant Fortress,Wonderous Items,Magic
+Clear Spindle Ioun Stone,Wonderous Items,Magic
+Dusty rose Prism Ioun Stone,Wonderous Items,Magic
+Deep red Sphere Ioun Stone,Wonderous Items,Magic
+Incandescent blue Sphere Ioun Stone,Wonderous Items,Magic
+Pale blue Rhomboid Ioun Stone,Wonderous Items,Magic
+Pink Rhomboid Ioun Stone,Wonderous Items,Magic
+Pink and green Sphere Ioun Stone,Wonderous Items,Magic
+Scarlet and blue Sphere Ioun Stone,Wonderous Items,Magic
+Dark blue Rhomboid Ioun Stone,Wonderous Items,Magic
+Iridescent Spindle Ioun Stone,Wonderous Items,Magic
+Pale lavender Ellipsoid Ioun Stone,Wonderous Items,Magic
+Pearly white Spindle Ioun Stone,Wonderous Items,Magic
+Pale green Prism Ioun Stone,Wonderous Items,Magic
+Orange Prism Ioun Stone,Wonderous Items,Magic
+Vibrant purple Prism Ioun Stone,Wonderous Items,Magic
+Lavender and green Ellipsoid Ioun Stone,Wonderous Items,Magic
+Iron Bands of Binding,Wonderous Items,Magic
+Iron Flask,Wonderous Items,Magic
+Lantern of Revealing,Wonderous Items,Magic
+Lens of Detection,Wonderous Items,Magic
+Lyre of Building,Wonderous Items,Magic
+Mantle of Faith,Wonderous Items,Magic
+Mantle of Spell Resistance,Wonderous Items,Magic
+Manual of Bodily Health +1,Wonderous Items,Magic
+Manual of Bodily Health +2,Wonderous Items,Magic
+Manual of Bodily Health +3,Wonderous Items,Magic
+Manual of Bodily Health +4,Wonderous Items,Magic
+Manual of Bodily Health +5,Wonderous Items,Magic
+Manual of Gainful Exercise +1,Wonderous Items,Magic
+Manual of Gainful Exercise +2,Wonderous Items,Magic
+Manual of Gainful Exercise +3,Wonderous Items,Magic
+Manual of Gainful Exercise +4,Wonderous Items,Magic
+Manual of Gainful Exercise +5,Wonderous Items,Magic
+Manual of Quickness of Action +1,Wonderous Items,Magic
+Manual of Quickness of Action +2,Wonderous Items,Magic
+Manual of Quickness of Action +3,Wonderous Items,Magic
+Manual of Quickness of Action +4,Wonderous Items,Magic
+Manual of Quickness of Action +5,Wonderous Items,Magic
+Marvelous Pigments,Wonderous Items,Magic
+Mask of the Skull,Wonderous Items,Magic
+Medallion of Thoughts,Wonderous Items,Magic
+Mirror of Life Trapping,Wonderous Items,Magic
+Mirror of Opposition,Wonderous Items,Magic
+Necklace of Adaptation,Wonderous Items,Magic
+Necklace of Fireballs (Type I),Wonderous Items,Magic
+Necklace of Fireballs (Type II),Wonderous Items,Magic
+Necklace of Fireballs (Type III),Wonderous Items,Magic
+Necklace of Fireballs (Type IV),Wonderous Items,Magic
+Necklace of Fireballs (Type V),Wonderous Items,Magic
+Necklace of Fireballs (Type VI),Wonderous Items,Magic
+Necklace of Fireballs (Type VII),Wonderous Items,Magic
+Orb of Storms,Wonderous Items,Magic
+Pearl of Power (1st),Wonderous Items,Magic
+Pearl of Power (2nd),Wonderous Items,Magic
+Pearl of Power (3rd),Wonderous Items,Magic
+Pearl of Power (4th),Wonderous Items,Magic
+Pearl of Power (5th),Wonderous Items,Magic
+Pearl of Power (6th),Wonderous Items,Magic
+Pearl of Power (7th),Wonderous Items,Magic
+Pearl of Power (8th),Wonderous Items,Magic
+Pearl of Power (9th),Wonderous Items,Magic
+Pearl of Power (two spells),Wonderous Items,Magic
+Pearl of the Sirines,Wonderous Items,Magic
+Periapt of Health,Wonderous Items,Magic
+Periapt of Proof Against Poison,Wonderous Items,Magic
+Periapt of Wound Closure,Wonderous Items,Magic
+Phylactery of Faithfulness,Wonderous Items,Magic
+Phylactery of Negative Channeling,Wonderous Items,Magic
+Phylactery of Positive Channeling,Wonderous Items,Magic
+Pipes of Haunting,Wonderous Items,Magic
+Pipes of the Sewers,Wonderous Items,Magic
+Pipes of Sounding,Wonderous Items,Magic
+Portable Hole,Wonderous Items,Magic
+Restorative Ointment,Wonderous Items,Magic
+Ring Gates,Wonderous Items,Magic
+White Robe of the Archmagi,Wonderous Items,Magic
+Grey Robe of the Archmagi,Wonderous Items,Magic
+Black Robe of the Archmagi,Wonderous Items,Magic
+Robe of Bones,Wonderous Items,Magic
+Robe of Blending,Wonderous Items,Magic
+Robe of Eyes,Wonderous Items,Magic
+Monk's Robe,Wonderous Items,Magic
+Robe of Scintillating Colors,Wonderous Items,Magic
+Robe of Stars,Wonderous Items,Magic
+Robe of Useful Items,Wonderous Items,Magic
+Rope of Climbing,Wonderous Items,Magic
+Rope of Entanglement,Wonderous Items,Magic
+Salve of Slipperiness,Wonderous Items,Magic
+Scabbard of Keen Edges,Wonderous Items,Magic
+Scarab of Protection,Wonderous Items,Magic
+Golembane Scarab,Wonderous Items,Magic
+Silversheen,Wonderous Items,Magic
+Slippers of Spider Climbing,Wonderous Items,Magic
+Ounce of Sovereign Glue,Wonderous Items,Magic
+Flask of Sovereign Glue,Wonderous Items,Magic
+Stone of Alarm,Wonderous Items,Magic
+Stone of Good Luck,Wonderous Items,Magic
+Stone Salve,Wonderous Items,Magic
+Lesser Strand of Prayer Beads,Wonderous Items,Magic
+Strand of Prayer Beads,Wonderous Items,Magic
+Greater Strand of Prayer Beads,Wonderous Items,Magic
+Sustaining Spoon,Wonderous Items,Magic
+Tome of Clear Thought +1,Wonderous Items,Magic
+Tome of Clear Thought +2,Wonderous Items,Magic
+Tome of Clear Thought +3,Wonderous Items,Magic
+Tome of Clear Thought +4,Wonderous Items,Magic
+Tome of Clear Thought +5,Wonderous Items,Magic
+Tome of Leadership and Influence +1,Wonderous Items,Magic
+Tome of Leadership and Influence +2,Wonderous Items,Magic
+Tome of Leadership and Influence +3,Wonderous Items,Magic
+Tome of Leadership and Influence +4,Wonderous Items,Magic
+Tome of Leadership and Influence +5,Wonderous Items,Magic
+Tome of Understanding +1,Wonderous Items,Magic
+Tome of Understanding +2,Wonderous Items,Magic
+Tome of Understanding +3,Wonderous Items,Magic
+Tome of Understanding +4,Wonderous Items,Magic
+Tome of Understanding +5,Wonderous Items,Magic
+Unguent of Timelessness,Wonderous Items,Magic
+Universal Solvent,Wonderous Items,Magic
+Vest of Escape,Wonderous Items,Magic
+Druid's Vestment,Wonderous Items,Magic
+Well of Many Worlds,Wonderous Items,Magic
+Wind Fan,Wonderous Items,Magic
+Wings of Flying,Wonderous Items,Magic
