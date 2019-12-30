@@ -10,6 +10,8 @@ dashboardPage(
   dashboardSidebar(
     sidebarMenu(
       id = "menu",
+      menuItem("Instructions", tabName = "instructions"),
+      menuItem("Campaign Selection", tabName = "campaign-selection"),
       menuItem("Loot Overview", tabName = "loot-overivew", icon = icon("table")),
       menuItem("New Encounter", tabName = "new-encounter", icon = icon("dice")),
       menuItem("Claim Your Loot", tabName = "loot-claimer", icon = icon("hand-holding-usd")),
