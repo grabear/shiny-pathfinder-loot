@@ -5,7 +5,6 @@ library(googlesheets4)
 
 
 server <- function(input, output, session) {
-  
   # Set the login status to FALSE.
   log_status <- reactiveVal(FALSE)
   
@@ -23,13 +22,22 @@ server <- function(input, output, session) {
         ))
       }
     })
-  
+  ap_data <- read_sheet("https://docs.google.com/spreadsheets/d/1gPhmI3AZ06MfTHnadZmBD5tc6-p9qAKAUekUHW5jRQU/edit?usp=sharing")
+  ap_list <- unique(ap_data$`Adventure Path Name`)
   # Change the login status to FALSE if the Logout button is pressed.
   # This will trigger the authentication modal.
   observeEvent(input$logout, {
     log_status(FALSE)
   })
   
+  output$`adventure-path-output` <- renderUI({
+    selectInput(inputId = "adventure-path-selection", label = "Select an Adventure Path", choices = ap_list)
+  })
+  
+  output$`adventure-output` <- renderUI({
+    a_data <- dplyr::filter(ap_data, ap_data$`Adventure Path Name` == input$`adventure-path-selection`)
+    selectInput(inputId = "adventure-selection", label = "Select an Adventure", choices = a_data$Adventure)
+  })
   # Uses the googledrive package token with googlesheets4
   # https://googlesheets4.tidyverse.org/articles/articles/drive-and-sheets.html
   # It changes the login status and closes the modal
@@ -39,7 +47,12 @@ server <- function(input, output, session) {
       sheets_auth(token = drive_token())
       log_status(ifelse(log_status(), FALSE, TRUE))
       removeModal()
-      #update_app_folder()
+      loot_files <- try({
+        drive_ls(".loot")
+        }, silent = TRUE)
+      if ( "try-error" %in% class(loot_files) ) {
+        initialize_app()
+      }
     } 
   })
 
@@ -68,6 +81,8 @@ server <- function(input, output, session) {
   # -----  Functions  -----
   # Initialize app in Google Drive
   initialize_app <- function() {
+    drive_mkdir(".loot")
+    drive_mkdir(".loot/campaigns")
     # 1. create home directory if it doesn't exist
     # only #1 is a part of initialization
     # 2. Campaign selection or creation

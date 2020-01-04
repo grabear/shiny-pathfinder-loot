@@ -1,5 +1,6 @@
 library(shinydashboard)
 library(shiny)
+library(googlesheets4)
 
 
 # -----  Start UI -----
@@ -51,7 +52,13 @@ dashboardPage(
                         )
                 )
               )
-              )
+              ),
+      tabItem(tabName = "campaign-selection", 
+              fluidRow(
+                box(strong(h2("New Campaign")),
+                    htmlOutput("adventure-path-output"),
+                    htmlOutput("adventure-output"))
+              ))
       )
     )
   )
