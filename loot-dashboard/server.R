@@ -23,6 +23,7 @@ server <- function(input, output, session) {
       }
     })
   ap_data <- read_sheet("https://docs.google.com/spreadsheets/d/1gPhmI3AZ06MfTHnadZmBD5tc6-p9qAKAUekUHW5jRQU/edit?usp=sharing")
+  campaign_data <- read_sheet("https://docs.google.com/spreadsheets/d/1JsmjsmjhNEVOZSpkRIqzBpy02rBPqRl_vG-35ZBrebU/edit?usp=sharing")
   ap_list <- unique(ap_data$`Adventure Path Name`)
   # Change the login status to FALSE if the Logout button is pressed.
   # This will trigger the authentication modal.
@@ -30,6 +31,10 @@ server <- function(input, output, session) {
     log_status(FALSE)
   })
   
+  # Commented code for displaying and "admin" page for the owner of the game
+  # output$`owner-page` <- renderMenu({
+  #   
+  # })
   output$`adventure-path-output` <- renderUI({
     selectInput(inputId = "adventure-path-selection", label = "Select an Adventure Path", choices = ap_list)
   })
