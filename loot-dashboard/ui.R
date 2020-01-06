@@ -12,6 +12,7 @@ dashboardPage(
     sidebarMenu(
       id = "menu",
       menuItem("Instructions", tabName = "instructions"),
+      # sidebarMenuOutput("owner-page"),
       menuItem("Campaign Selection", tabName = "campaign-selection"),
       menuItem("New Encounter", tabName = "new-encounter", icon = icon("dice")),
       menuItem("Claim Your Loot", tabName = "loot-claimer", icon = icon("hand-holding-usd")),
@@ -36,7 +37,9 @@ dashboardPage(
                           corrupt your campaigns and the general functioning of the application.")),
                 h2("Instructions:"),
                 hr(),
-                p("Here is a basic set of instructions for using the application:"),
+                p("When using this app it's a good idea to assign ONE person to account for loot gathered during each encounter.
+                  Afterwards everyone can log in to see what the loot table looks like.  Here is a basic set of instructions for 
+                  using the application:"),
                 tags$ol(tags$li("Authenticate with your Gmail address.  This app can ONLY be used with Gmail."),
                         tags$li("Select or Create a campaign in the Campaign Selection tab."),
                         tags$li("If you want to add more loot to the Loot Table, navigate to the New Encounter tab."),
@@ -57,7 +60,8 @@ dashboardPage(
               fluidRow(
                 box(strong(h2("New Campaign")),
                     htmlOutput("adventure-path-output"),
-                    htmlOutput("adventure-output"))
+                    htmlOutput("adventure-output"),
+                    textInput(inputId = "campaign-name", label = "Campaign Name"))
               ))
       )
     )
