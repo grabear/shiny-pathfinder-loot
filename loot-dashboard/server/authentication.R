@@ -1,3 +1,6 @@
+# Set the login status to FALSE.
+log_status <- reactiveVal(FALSE)
+
 # When the log_status is false, show the authentication window.
 # Do not use the easy close parameteror user will not be able 
 # to authenticate properly.
@@ -26,6 +29,10 @@ observeEvent(input$auth, {
   if (log_status() == FALSE) {
     drive_auth(email = input$gmail, cache = TRUE)
     sheets_auth(token = drive_token())
+    
+    # create objects from Google Sheets data
+    source(file.path("server", "data.R"), local=TRUE)$value
+    
     log_status(ifelse(log_status(), FALSE, TRUE))
     removeModal()
     loot_files <- try({
