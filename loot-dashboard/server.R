@@ -5,21 +5,30 @@ library(googlesheets4)
 
 
 server <- function(input, output, session) {
-  # Set the login status to FALSE.
-  log_status <- reactiveVal(FALSE)
-  
+                    
   # Authentication Window and Login Sequence
   source(file.path("server", "authentication.R"), local=TRUE)$value
-  
-  # create objects from Google Sheets data
-  source(file.path("server", "data.R"), local=TRUE)$value
+
   
   # Commented code for displaying and "admin" page for the owner of the game
+  # https://stackoverflow.com/questions/45356096/dynamic-menu-in-shinydashboard-with-conditionalpanel
   # output$`owner-page` <- renderMenu({
   #   
   # })
   
   # Logic for the campaign selection tab
+  output$registration1 <- renderMenu({
+    players <- get_data("players")
+    player <- drive_user()
+    if (!(player$emailAddress %in% players$`Email Address`)) {
+      if (log_status() == TRUE) {
+        sidebarMenu(
+        menuItem("Registration", tabName = "registra")
+      )
+      }
+    }
+  })
+  
   source(file.path("server", "campaign-selection-tab.R"), local=TRUE)$value
   
 
