@@ -8,3 +8,7 @@ output$`adventure-output` <- renderUI({
   a_data <- dplyr::filter(ap_data, ap_data$`Adventure Path Name` == input$`adventure-path-selection`)
   selectInput(inputId = "adventure-selection", label = "Select an Adventure", choices = c(a_data$Adventure, "Unknown"))
 })
+
+observeEvent(input$`create-campaign`, {
+  
+})
