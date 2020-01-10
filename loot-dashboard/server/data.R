@@ -22,5 +22,13 @@ get_data <- function(table) {
   )
   }
 
-ap_data <- get_data("adventure_paths")
-ap_list <- unique(ap_data$`Adventure Path Name`)
+withProgress(message = "Loading Data", value = 0, {
+  incProgress(amount = 0.33, detail="Loading Adventure Paths")
+  ap_data <- get_data("adventure_paths")
+  ap_list <- unique(ap_data$`Adventure Path Name`)
+  incProgress(amount = 0.33, detail = "Loading Player Data")
+  players <- get_data("players")
+  player <- drive_user()
+  incProgress(amount = 0.33, detail = "Loading Campaign Data")
+  campaigns <- get_data("campaigns")
+})
