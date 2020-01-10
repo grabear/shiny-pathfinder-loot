@@ -3,7 +3,6 @@ sidebarMenu(
   id = "menu",
   menuItem("Instructions", tabName = "instructions"),
   # sidebarMenuOutput("owner-page"),
-  sidebarMenuOutput("registration1"),
   menuItem("Campaign Selection", tabName = "campaign-selection"),
   menuItem("New Encounter", tabName = "new-encounter", icon = icon("dice")),
   menuItem("Claim Your Loot", tabName = "loot-claimer", icon = icon("hand-holding-usd")),

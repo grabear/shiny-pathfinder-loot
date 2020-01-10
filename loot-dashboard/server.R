@@ -16,19 +16,6 @@ server <- function(input, output, session) {
   #   
   # })
   
-  # Logic for the campaign selection tab
-  output$registration1 <- renderMenu({
-    players <- get_data("players")
-    player <- drive_user()
-    if (!(player$emailAddress %in% players$`Email Address`)) {
-      if (log_status() == TRUE) {
-        sidebarMenu(
-        menuItem("Registration", tabName = "registra")
-      )
-      }
-    }
-  })
-  
   source(file.path("server", "campaign-selection-tab.R"), local=TRUE)$value
   
 
