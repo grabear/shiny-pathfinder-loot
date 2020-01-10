@@ -14,6 +14,7 @@ tabItem(tabName = "instructions",
                   using the application:"),
             tags$ol(tags$li("Authenticate with your Gmail address.  This app can ONLY be used with Gmail."),
                     tags$li("Select or Create a campaign in the Campaign Selection tab."),
+                    tags$li("Add players to your campaign (including yourself!)"),
                     tags$li("If you want to add more loot to the Loot Table, navigate to the New Encounter tab."),
                     tags$li("Loot can be rolled on in the Claim Your Loot tab.  Here you can vote NEED, GREED, or PASS.
                                 NEED and GREED will generate a random number between 1 and 100 to settle multiple NEED/GREED
