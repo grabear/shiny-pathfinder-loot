@@ -9,6 +9,18 @@ output$`adventure-output` <- renderUI({
   selectInput(inputId = "adventure-selection", label = "Select an Adventure", choices = c(a_data$Adventure, "Unknown"))
 })
 
+output$`campaign-output-load` <- renderUI({
+  player_camps <- dplyr::filter(players, player$emailAddress %in% players$`Email Address`)
+  player_camps <- dplyr::filter(campaigns, campaigns$ID %in% player_camps$`Campaign ID`)
+  selectInput(inputId = "players-campaign-load", "Select a Campaign", choices = player_camps$`Campaign Name`)
+})
+
+output$`campaign-output-add` <- renderUI({
+  player_camps <- dplyr::filter(campaigns, campaigns$`Owner Email` %in% player$emailAddress)
+  selectInput(inputId = "players-campaign-add", "Select a Campaign", choices = player_camps$`Campaign Name`)
+})
+
+
 observeEvent(input$`create-campaign`, {
   
 })
