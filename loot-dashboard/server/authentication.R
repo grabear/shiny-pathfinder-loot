@@ -1,5 +1,3 @@
-# Set the login status to FALSE.
-log_status <- reactiveVal(FALSE)
 
 # When the log_status is false, show the authentication window.
 # Do not use the easy close parameteror user will not be able 
@@ -29,10 +27,7 @@ observeEvent(input$auth, {
   if (log_status() == FALSE) {
     drive_auth(email = input$gmail, cache = TRUE)
     sheets_auth(token = drive_token())
-    
-    # create objects from Google Sheets data
     source(file.path("server", "data.R"), local=TRUE)$value
-    
     log_status(ifelse(log_status(), FALSE, TRUE))
     removeModal()
     loot_files <- try({
@@ -51,20 +46,13 @@ output$currentUser <- renderUI({
          message = "No user is \ncurrently \nauthorized.")
   )
   x <- drive_user()
-  line1 <- sprintf("Welcome </br><h>back </br><h>%s!", x$emailAddress)
+  line1 <- sprintf("Welcome </br><h>back </br><h>%s!</br><h>%s", x$emailAddress, tags$img(src=x$photoLink))
   
   if(log_status()) {
     HTML(paste(line1, sep = "</br><h>"))
   }
 })
 
-# Update profile pic for current user
-output$profile <- renderUI({
-  if(log_status()){
-    x <- drive_user()
-    tags$img(src=x$photoLink)
-  }
-})
 
 # Initialize app in Google Drive
 initialize_app <- function() {
