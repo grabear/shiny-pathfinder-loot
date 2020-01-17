@@ -5,6 +5,10 @@ library(googlesheets4)
 
 
 server <- function(input, output, session) {
+  # Set the login status to FALSE.
+  log_status <- reactiveVal(FALSE)
+  # Initialize the loot data variable.
+  loot_data <- reactiveValues()
                     
   # Authentication Window and Login Sequence
   source(file.path("server", "authentication.R"), local=TRUE)$value
