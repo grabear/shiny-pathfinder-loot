@@ -1,7 +1,3 @@
-# Google Drive shared links
-ap_link <- 
-campaign_link <- 
-
 get_link <- function(table) {
  return(switch(table,
          adventure_paths = "https://docs.google.com/spreadsheets/d/1gPhmI3AZ06MfTHnadZmBD5tc6-p9qAKAUekUHW5jRQU/edit?usp=sharing",
@@ -21,14 +17,13 @@ get_data <- function(table) {
          )
   )
   }
-
 withProgress(message = "Loading Data", value = 0, {
   incProgress(amount = 0.33, detail="Loading Adventure Paths")
-  ap_data <- get_data("adventure_paths")
-  ap_list <- unique(ap_data$`Adventure Path Name`)
+  loot_data$ap_table <- get_data("adventure_paths")
+  loot_data$ap_names <- unique(loot_data$ap_table$`Adventure Path Name`)
   incProgress(amount = 0.33, detail = "Loading Player Data")
-  players <- get_data("players")
-  player <- drive_user()
+  loot_data$players_table <- get_data("players")
+  loot_data$drive_user <- drive_user()
   incProgress(amount = 0.33, detail = "Loading Campaign Data")
-  campaigns <- get_data("campaigns")
+  loot_data$campaigns_table <- get_data("campaigns")
 })
