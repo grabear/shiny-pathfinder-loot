@@ -1,12 +1,14 @@
 library(shinydashboard)
 library(shiny)
-library(googleAuthR)
+#library(googleAuthR)
 
-# Update Google Auth options
-options(googleAuthR.scopes.selected = "https://www.googleapis.com/auth/plus.me")
-options(googleAuthR.webapp.client_id =  "498958135112-hd4udv449lprp85j5e5qr1ugvg8on3v0.apps.googleusercontent.com")
-options(googleAuthR.webapp.client_secret = "xo58T9kE442ckGCWJkmzEP-F")
-
+# # Update Google Auth options
+# #options(googlesheets.scopes.selected = "https://www.googleapis.com/auth/plus.me")
+# options("googlesheets.webapp.client_id" =  "498958135112-hd4udv449lprp85j5e5qr1ugvg8on3v0.apps.googleusercontent.com")
+# options("googlesheets.webapp.client_secret" = "xo58T9kE442ckGCWJkmzEP-F")
+# #options(googlesheets.httr_oauth_cache = FALSE)
+# options("googlesheets.webapp.redirect_uri" = "http://127.0.0.1:4643")
+# options(shiny.port = 4643)
 # -----  Start UI -----
 dashboardPage(
   dashboardHeader(title = "Loot Dashboard",
